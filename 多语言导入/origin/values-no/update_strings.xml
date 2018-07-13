@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">Oppdater senere</string>
+	<string name="new_updates">Nye oppdateringer</string>
+	<string name="personal_data">Enhets-ID, stedsinformasjon, Android-ID, App-ID, tidsstempel osv.</string>
+	<string name="update_now">Oppdater nå</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Nya uppdateringar</string>
+	<string name="personal_data">Enhets-id, platsinformation, Android-id, app-id, tidsstämpel, etc.</string>
+	<string name="update_now">Uppdatera nu</string>
+</resources>

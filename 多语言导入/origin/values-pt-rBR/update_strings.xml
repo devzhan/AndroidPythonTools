@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">Atualizar mais tarde</string>
+	<string name="new_updates">Novas atualizações</string>
+	<string name="personal_data">ID do dispositivo, informações de localização, Androidid, Appid, Registro de data/hora, etc.</string>
+	<string name="update_now">Atualizar agora</string>
+</resources>

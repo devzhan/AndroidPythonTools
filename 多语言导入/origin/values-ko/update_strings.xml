@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">나중에 업데이트</string>
+	<string name="new_updates">새 업데이트</string>
+	<string name="personal_data">기기 ID, 위치 정보, Androidid, Appid, 타임스탬프 등</string>
+	<string name="update_now">지금 업데이트</string>
+</resources>

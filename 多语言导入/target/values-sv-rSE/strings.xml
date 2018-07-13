@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Anteckningar"</string>
+	<!---->
+	<string name="add_note">"Lägg till anteckning"</string>
+	<!---->
+	<string name="help_promt">"Tryck på den här knappen för att \n skapa din första anteckning."</string>
+	<!---->
+	<string name="sort_by_time">"Sortera på tid"</string>
+	<!---->
+	<string name="sort_by_color">"Sortera efter färg"</string>
+	<!---->
+	<string name="camera">"Kamera"</string>
+	<!---->
+	<string name="album">"Galleri"</string>
+	<!---->
+	<string name="record">"Spela in"</string>
+	<!---->
+	<string name="reminder">"Påminnelse"</string>
+	<!---->
+	<string name="attachments">"Bilagor"</string>
+	<!---->
+	<string name="colours">"Färger"</string>
+	<!---->
+	<string name="set_reminder">"Ange påminnelsetid."</string>
+	<!---->
+	<string name="delete_item">"Ta bort den?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Visa"</string>
+	<!---->
+	<string name="btn_cancel">"Återgå"</string>
+	<!---->
+	<string name="save_record">"Posten har sparats."</string>
+	<!---->
+	<string name="delete_menu_title">"ta bort"</string>
+	<!---->
+	<string name="delete_these_item_title">"Ta bort de här anteckningarna?"</string>
+	<!---->
+	<string name="delete_all">"Ta bort alla anteckningar?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Är du säker på att du vill ta bort den här anteckningen?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Vill du ta bort den här färgmappen?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Vill du ta bort de här färgmapparna?"</string>
+	<!---->
+	<string name="add_limit">"Maxlängd uppnådd!"</string>
+	<!---->
+	<string name="search_hint">"Sök anteckningar"</string>
+	<!---->
+	<string name="search_label">"Sök"</string>
+	<!---->
+	<string name="sort">"Sortera"</string>
+	<!---->
+	<string name="no_note_exist">"Inga anteckningar"</string>
+	<!---->
+	<string name="no_search_result">"Inga sökresultat"</string>
+	<!---->
+	<string name="reminder_error">"Den tid du anger är tidigare än aktuell tid."</string>
+	<!---->
+	<string name="note_reminder">"Anteckningspåminnelse"</string>
+	<!---->
+	<string name="save_empty">"Den här anteckningen är tom. Ange innehåll."</string>
+	<!---->
+	<string name="stack">"Hög"</string>
+	<!---->
+	<string name="widget_note_empty">"Klicka för att börja redigera"</string>
+	<!---->
+	<string name="loading">"Läser in…"</string>
+	<!---->
+	<string name="insert_sd_card">"Sätt i ett SD-kort"</string>
+	<!---->
+	<string name="selected">"%s har valts"</string>
+	<!---->
+	<string name="note_notify_text">"Välj för att avbryta eller bekräfta den här påminnelsen."</string>
+	<!---->
+	<string name="guest_mode_creat">"Du har inte behörighet att skapa en anteckning i gästläge."</string>
+	<!---->
+	<string name="guest_mode_view">"Du har inte behörighet att visa anteckningen i gästläge."</string>
+	<!---->
+	<string name="guest_mode_search">"Du har inte behörighet att söka efter anteckningar i gästläge."</string>
+	<!---->
+	<string name="homekey_save">"Anteckning sparad!"</string>
+	<!---->
+	<string name="search_title">"Zoekresultaat"</string>
+	<!---->
+	<string name="edit_add">"Lägg till ny ant."</string>
+	<!---->
+	<string name="color_white">"Vit"</string>
+	<!---->
+	<string name="color_blue">"Blå"</string>
+	<!---->
+	<string name="color_green">"Grön"</string>
+	<!---->
+	<string name="color_yellow">"Gul"</string>
+	<!---->
+	<string name="color_red">"Röd"</string>
+	<!---->
+	<string name="color_purple">"Lila"</string>
+	<!---->
+	<string name="color_black">"Svart"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Otillräckligt utrymme på enheter, frigör utrymme och försök igen."</string>
+	<!---->
+	<string name="record_error">"Stoppa ljudinspelningen och försök igen."</string>
+	<!---->
+	<string name="toast_loadPicture">"Bildladdningsfel."</string>
+	<!---->
+	<string name="record_max_time">"Maxtid uppnådd och posten har sparats"</string>
+	<!---->
+	<string name="start_record">"Tryck för att spela in"</string>
+	<!---->
+	<string name="speek_record">"Tala nu"</string>
+	<!---->
+	<string name="record_incall">"Samtal pågår, kan inte spela in."</string>
+	<!---->
+	<string name="playrecord_incall">"Samtal pågår, kan inte spela upp inspelning."</string>
+	<!---->
+	<string name="recording">"Inspelningar"</string>
+	<!---->
+	<string name="pause_record">"Tryck för att pausa"</string>
+	<!---->
+	<string name="continue_record">"Tryck för att fortsätta"</string>
+	<!---->
+	<string name="save_diarecord">"Spara"</string>
+	<!---->
+	<string name="discard_record">"Makulera"</string>
+	<!---->
+	<string name="no_file">"Ingen fil"</string>
+	<!---->
+	<string name="btn_dismiss">"Ta bort permanent"</string>
+	<!---->
+	<string name="remove_pic">"Ta bort bild?"</string>
+	<!---->
+	<string name="btn_remove">"Ta bort"</string>
+	<!---->
+	<string name="deleting">"Tar bort..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"För att spela in röstmeddelanden, ge Notes behörighet att komma åt mikrofonen."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"För att spela in röstmeddelanden, ge Notes behörighet att komma åt minnet."</string>
+	<!---->
+	<string name="camera_permiss_lable">"För att ta foton, ge Notes behörighet att komma åt minnet."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"För att spela upp inspelningar, ge Notes behörighet att komma åt minnet."</string>
+	<!---->
+	<string name="btn_permiss">"Inställningar"</string>
+</resources>

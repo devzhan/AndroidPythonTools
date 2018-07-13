@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Apr 03 10:50:38 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Notas"</string>
+	<!---->
+	<string name="add_note">"Añadir nota"</string>
+	<!---->
+	<string name="help_promt">"Toque este botón para \n crear su primera nota."</string>
+	<!---->
+	<string name="sort_by_time">"Ordenar por hora"</string>
+	<!---->
+	<string name="sort_by_color">"Ordenar por color"</string>
+	<!---->
+	<string name="camera">"Cámara"</string>
+	<!---->
+	<string name="album">"Galería"</string>
+	<!---->
+	<string name="record">"Grabar"</string>
+	<!---->
+	<string name="reminder">"Recordatorio"</string>
+	<!-- no translation found for notification -->
+	<skip />
+	<!---->
+	<string name="set_reminder">"Establecer la hora de recordatorio."</string>
+	<!---->
+	<string name="delete_item">"¿Eliminar?"</string>
+	<!---->
+	<string name="btn_ok">"Aceptar"</string>
+	<!---->
+	<string name="btn_view">"Ver"</string>
+	<!---->
+	<string name="btn_cancel">"Cancelar"</string>
+	<!---->
+	<string name="save_record">"Registro guardado."</string>
+	<!---->
+	<string name="delete_menu_title">"Borrar"</string>
+	<!---->
+	<string name="delete_these_item_title">"¿Eliminar seleccionadas?"</string>
+	<!---->
+	<string name="delete_all">"¿Eliminar todas las notas?"</string>
+	<!---->
+	<string name="delete_this_item_title">"¿Está seguro de que desea eliminar esta nota?"</string>
+	<!-- no translation found for delete_this_color_item_title -->
+	<skip />
+	<!-- no translation found for delete_these_color_item_title -->
+	<skip />
+	<!---->
+	<string name="add_limit">"Se ha alcanzado la longitud máxima."</string>
+	<!---->
+	<string name="search_hint">"Buscar notas"</string>
+	<!---->
+	<string name="search_label">"Buscar"</string>
+	<!---->
+	<string name="no_note_exist">"No hay notas"</string>
+	<!---->
+	<string name="no_search_result">"No hay resultados de búsqueda"</string>
+	<!---->
+	<string name="reminder_error">"La hora establecida es anterior a la hora actual."</string>
+	<!---->
+	<string name="note_reminder">"Recordatorio de notas"</string>
+	<!---->
+	<string name="save_empty">"La nota está vacía. Ingrese contenidos."</string>
+	<!---->
+	<string name="stack">"Apilar"</string>
+	<!---->
+	<string name="widget_note_empty">"Haga clic para empezar a editar"</string>
+	<!---->
+	<string name="loading">"Cargando..."</string>
+	<!---->
+	<string name="insert_sd_card">"Inserta una tarjeta SD."</string>
+	<!---->
+	<string name="selected">"%s seleccionados"</string>
+	<!---->
+	<string name="note_notify_text">"Seleccione para cancelar o confirmar este recordatorio."</string>
+	<!---->
+	<string name="guest_mode_creat">"No se le permite crear una nota en Modo visitante."</string>
+	<!---->
+	<string name="guest_mode_view">"No puede ver notas en Modo Invitado."</string>
+	<!---->
+	<string name="guest_mode_search">"No puede buscar notas en Modo Invitado."</string>
+	<!---->
+	<string name="homekey_save">"¡Nota guardada!"</string>
+	<!---->
+	<string name="search_title">"Resultados de búsqueda"</string>
+	<!---->
+	<string name="edit_add">"Agregar nueva nota"</string>
+	<!---->
+	<string name="color_white">"Blanco"</string>
+	<!---->
+	<string name="color_blue">"Azul"</string>
+	<!---->
+	<string name="color_green">"Verde"</string>
+	<!---->
+	<string name="color_yellow">"Amarillo"</string>
+	<!---->
+	<string name="color_red">"Rojo"</string>
+	<!---->
+	<string name="color_purple">"Morado"</string>
+	<!---->
+	<string name="color_black">"Negro"</string>
+	<!---->
+	<string name="msg_devices_no_space">"No hay espacio suficiente en los dispositivos. Libere espacio e inténtelo de nuevo."</string>
+	<!---->
+	<string name="record_error">"Detenga el Grabador de Sonido y vuelva a intentarlo."</string>
+	<!---->
+	<string name="toast_loadPicture">"Error al cargar la imagen."</string>
+	<!---->
+	<string name="record_max_time">"Se ha alcanzado el tiempo máximo y se ha guardado el registro."</string>
+	<!---->
+	<string name="start_record">"Toque para grabar"</string>
+	<!---->
+	<string name="speek_record">"Hable ahora"</string>
+	<!-- no translation found for stop_record -->
+	<skip />
+	<!---->
+	<string name="record_incall">"Llamada en curso, no se puede reproducir."</string>
+	<!---->
+	<string name="playrecord_incall">"Llamada en curso, no se puede reproducir la grabación."</string>
+	<!---->
+	<string name="recording">"Grabaciones"</string>
+	<!---->
+	<string name="pause_record">"Tocar para pausar"</string>
+	<!---->
+	<string name="continue_record">"Tocar para reanudar"</string>
+	<!---->
+	<string name="save_diarecord">"Guardar"</string>
+	<!---->
+	<string name="discard_record">"Descartar"</string>
+	<!---->
+	<string name="no_file">"Ningún archivo"</string>
+	<!---->
+	<string name="btn_dismiss">"Descartar"</string>
+	<!---->
+	<string name="remove_pic">"¿Eliminar imagen?"</string>
+	<!---->
+	<string name="btn_remove">"Eliminar"</string>
+	<!-- no translation found for sure_discard_record -->
+	<skip />
+	<!---->
+	<string name="deleting">"Borrando..."</string>
+</resources>

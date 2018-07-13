@@ -1,0 +1,4 @@
+<resources>
+    <!--attachments  text size 16sp when add attach without chinese, -->
+    <dimen name="attach_textsize">16sp</dimen>
+</resources>

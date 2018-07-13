@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Allaasakkat"</string>
+	<!---->
+	<string name="add_note">"Allaasagaq ilannguguk"</string>
+	<!---->
+	<string name="help_promt">"Una toortagaq attoruk allaasakkanni siullerpaaq \n pilersinniarlugu."</string>
+	<!---->
+	<string name="sort_by_time">"Piffissaq aallaavingalugu immikkoortitikkit"</string>
+	<!-- no translation found for sort_by_color -->
+	<skip />
+	<!---->
+	<string name="camera">"Assiliivik"</string>
+	<!---->
+	<string name="album">"Assiisivik"</string>
+	<!---->
+	<string name="record">"Immiuguk"</string>
+	<!---->
+	<string name="reminder">"Eqqaasitsissut"</string>
+	<!-- no translation found for attachments -->
+	<skip />
+	<!-- no translation found for colours -->
+	<skip />
+	<!---->
+	<string name="set_reminder">"Eqqaasitsissut piffissaleruk"</string>
+	<!-- no translation found for delete_item -->
+	<skip />
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!-- no translation found for btn_view -->
+	<skip />
+	<!-- no translation found for btn_cancel -->
+	<skip />
+	<!-- no translation found for save_record -->
+	<skip />
+	<!-- no translation found for delete_menu_title -->
+	<skip />
+	<!-- no translation found for delete_these_item_title -->
+	<skip />
+	<!---->
+	<string name="delete_all">"Allaasakkat tamaasa peerniarpigit?"</string>
+	<!-- no translation found for delete_this_item_title -->
+	<skip />
+	<!-- no translation found for delete_this_color_item_title -->
+	<skip />
+	<!-- no translation found for delete_these_color_item_title -->
+	<skip />
+	<!---->
+	<string name="add_limit">"Takinerpaaffissaa tikinneqarpoq!"</string>
+	<!---->
+	<string name="search_hint">"Allaasakkani ujaarlerit"</string>
+	<!---->
+	<string name="search_label">"Ujaruk"</string>
+	<!-- no translation found for sort -->
+	<skip />
+	<!---->
+	<string name="no_note_exist">"Allaasagaqanngilaq"</string>
+	<!-- no translation found for no_search_result -->
+	<skip />
+	<!-- no translation found for reminder_error -->
+	<skip />
+	<!---->
+	<string name="note_reminder">"Allagaq eqqaasitsissut"</string>
+	<!---->
+	<string name="save_empty">"Allaasagaq una imaqanngilaq. Imarisaa ikkuguk."</string>
+	<!---->
+	<string name="stack">"Qaleriiaakkit"</string>
+	<!-- no translation found for widget_note_empty -->
+	<skip />
+	<!---->
+	<string name="loading">""Immerpoq..."</string>
+	<!---->
+	<string name="insert_sd_card">"SD kort-imik ikkussigit"</string>
+	<!---->
+	<string name="selected">"%s toqqarneqarpoq"</string>
+	<!---->
+	<string name="note_notify_text">"Eqqaasitsissut una taamaatinniarlugu imaluunniit uppernarsarniarlugu toqqaruk."</string>
+	<!-- no translation found for guest_mode_creat -->
+	<skip />
+	<!-- no translation found for guest_mode_view -->
+	<skip />
+	<!-- no translation found for guest_mode_search -->
+	<skip />
+	<!-- no translation found for homekey_save -->
+	<skip />
+	<!-- no translation found for search_title -->
+	<skip />
+	<!-- no translation found for edit_add -->
+	<skip />
+	<!---->
+	<string name="color_white">"Qaqortoq"</string>
+	<!---->
+	<string name="color_blue">"Tungujortoq"</string>
+	<!---->
+	<string name="color_green">"Qorsorpaluttoq"</string>
+	<!-- no translation found for color_yellow -->
+	<skip />
+	<!---->
+	<string name="color_red">"Aappaluttoq"</string>
+	<!-- no translation found for color_purple -->
+	<skip />
+	<!---->
+	<string name="color_black">"Qernertoq"</string>
+	<!-- no translation found for msg_devices_no_space -->
+	<skip />
+	<!-- no translation found for record_error -->
+	<skip />
+	<!-- no translation found for toast_loadPicture -->
+	<skip />
+	<!-- no translation found for record_max_time -->
+	<skip />
+	<!-- no translation found for start_record -->
+	<skip />
+	<!-- no translation found for speek_record -->
+	<skip />
+	<!-- no translation found for record_incall -->
+	<skip />
+	<!-- no translation found for playrecord_incall -->
+	<skip />
+	<!-- no translation found for recording -->
+	<skip />
+	<!-- no translation found for pause_record -->
+	<skip />
+	<!-- no translation found for continue_record -->
+	<skip />
+	<!-- no translation found for save_diarecord -->
+	<skip />
+	<!-- no translation found for discard_record -->
+	<skip />
+	<!-- no translation found for no_file -->
+	<skip />
+	<!---->
+	<string name="btn_dismiss">"Qimaguk"</string>
+	<!-- no translation found for remove_pic -->
+	<skip />
+	<!---->
+	<string name="btn_remove">"Peeruk"</string>
+	<!---->
+	<string name="deleting">"Piiaavoq…"</string>
+	<!-- no translation found for audio_permiss_lable -->
+	<skip />
+	<!-- no translation found for audio_storage_permiss_lable -->
+	<skip />
+	<!-- no translation found for camera_permiss_lable -->
+	<skip />
+	<!-- no translation found for playaudio_permiss_lable -->
+	<skip />
+	<!---->
+	<string name="btn_permiss">"Aaqqiinerit"</string>
+</resources>

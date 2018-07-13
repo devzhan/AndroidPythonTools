@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Notas"</string>
+	<!---->
+	<string name="add_note">"Adicionar nota"</string>
+	<!---->
+	<string name="help_promt">"Toque neste botão para \n criar a sua primeira nota."</string>
+	<!---->
+	<string name="sort_by_time">"Ordenar por hora"</string>
+	<!---->
+	<string name="sort_by_color">"Ordenar por cor"</string>
+	<!---->
+	<string name="camera">"Câmara"</string>
+	<!---->
+	<string name="album">"Galeria"</string>
+	<!---->
+	<string name="record">"Gravar"</string>
+	<!---->
+	<string name="reminder">"Lembrança"</string>
+	<!---->
+	<string name="attachments">"Anexos"</string>
+	<!---->
+	<string name="colours">"Cores"</string>
+	<!---->
+	<string name="set_reminder">"Definir a hora do lembrete."</string>
+	<!---->
+	<string name="delete_item">"Eliminar?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Ver"</string>
+	<!---->
+	<string name="btn_cancel">"Cancelar"</string>
+	<!---->
+	<string name="save_record">"A gravação foi guardada."</string>
+	<!---->
+	<string name="delete_menu_title">"Apagar"</string>
+	<!---->
+	<string name="delete_these_item_title">"Eliminar estas notas?"</string>
+	<!---->
+	<string name="delete_all">"Apagar todas as notas?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Tem a certeza de que pretende eliminar esta nota?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Eliminar esta pasta de cores?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Eliminar estas pastas de cores?"</string>
+	<!---->
+	<string name="add_limit">"Comprimento máximo atingido!"</string>
+	<!---->
+	<string name="search_hint">"Pesquisar notas"</string>
+	<!---->
+	<string name="search_label">"Pesquisar"</string>
+	<!---->
+	<string name="sort">"Ordenar"</string>
+	<!---->
+	<string name="no_note_exist">"Nenhuma nota"</string>
+	<!---->
+	<string name="no_search_result">"Nenhum resultado encontrado"</string>
+	<!---->
+	<string name="reminder_error">"A hora que definiu é anterior à hora atual."</string>
+	<!---->
+	<string name="note_reminder">"Lembrete de nota"</string>
+	<!---->
+	<string name="save_empty">"A nota está vazia. Introduza conteúdo."</string>
+	<!---->
+	<string name="stack">"Pilha"</string>
+	<!---->
+	<string name="widget_note_empty">"Clique para começar a editar."</string>
+	<!---->
+	<string name="loading">"A carregar..."</string>
+	<!---->
+	<string name="insert_sd_card">"Inserir um cartão SD"</string>
+	<!---->
+	<string name="selected">"%s selecionado"</string>
+	<!---->
+	<string name="note_notify_text">"Selecione para cancelar ou confirmar este lembrete."</string>
+	<!---->
+	<string name="guest_mode_creat">"Não pode criar uma nota no modo de convidado."</string>
+	<!---->
+	<string name="guest_mode_view">"Não tem permissão para ver a nota no modo de convidado."</string>
+	<!---->
+	<string name="guest_mode_search">"Não tem permissão para pesquisar notas no modo de convidado."</string>
+	<!---->
+	<string name="homekey_save">"Nota guardada!"</string>
+	<!---->
+	<string name="search_title">"Resultado de pesquisa"</string>
+	<!---->
+	<string name="edit_add">"Adic. nova nota"</string>
+	<!---->
+	<string name="color_white">"Branco"</string>
+	<!---->
+	<string name="color_blue">"Azul"</string>
+	<!---->
+	<string name="color_green">"Verde"</string>
+	<!---->
+	<string name="color_yellow">"Amarelo"</string>
+	<!---->
+	<string name="color_red">"Vermelho"</string>
+	<!---->
+	<string name="color_purple">"Roxo"</string>
+	<!---->
+	<string name="color_black">"Preto"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Espaço insuficiente no dispositivo, liberte algum espaço e tente novamente."</string>
+	<!---->
+	<string name="record_error">"Pare o Gravador de sons e tente novamente."</string>
+	<!---->
+	<string name="toast_loadPicture">"Falha ao carregar imagem."</string>
+	<!---->
+	<string name="record_max_time">"Tempo máximo atingido e o registo foi guardado"</string>
+	<!---->
+	<string name="start_record">"Toque para gravar"</string>
+	<!---->
+	<string name="speek_record">"Fale agora"</string>
+	<!---->
+	<string name="record_incall">"Chamada em curso, não é possível gravar."</string>
+	<!---->
+	<string name="playrecord_incall">"Chamada em curso, não é possível reproduzir a gravação."</string>
+	<!---->
+	<string name="recording">"Gravações"</string>
+	<!---->
+	<string name="pause_record">"Toque para parar"</string>
+	<!---->
+	<string name="continue_record">"Toque para retomar"</string>
+	<!---->
+	<string name="save_diarecord">"Guardar"</string>
+	<!---->
+	<string name="discard_record">"Rejeitar"</string>
+	<!---->
+	<string name="no_file">"Nenhum ficheiro"</string>
+	<!---->
+	<string name="btn_dismiss">"Cancelar"</string>
+	<!---->
+	<string name="remove_pic">"Remover imagem?"</string>
+	<!---->
+	<string name="btn_remove">"Remover"</string>
+	<!---->
+	<string name="deleting">"A apagar..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Para gravar notas de voz, ative a permissão das Notas para aceder ao microfone."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Para gravar notas de voz, ative a permissão das Notas para aceder ao armazenamento."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Para tirar fotografias, ative a permissão das Notas para aceder ao armazenamento."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Para reproduzir gravações, ative a permissão das Notas para aceder ao armazenamento."</string>
+	<!---->
+	<string name="btn_permiss">"Definições"</string>
+	<string name="main_push_about">"Sobre"</string>
+	<string name="main_update_later">Atualizar mais tarde</string>
+	<string name="new_updates">Novas atualizações</string>
+	<string name="personal_data">ID do dispositivo, Informações de localização, ID Android, ID da aplicação, Carimbo de data/hora, etc.</string>
+	<string name="update_now">Atualizar agora</string>
+	<string name="main_update_later">Atualizar mais tarde</string>
+	<string name="new_updates">Novas atualizações</string>
+	<string name="personal_data">ID do dispositivo, Informações de localização, ID Android, ID da aplicação, Carimbo de data/hora, etc.</string>
+	<string name="update_now">Atualizar agora</string>
+	<string name="main_update_later">Atualizar mais tarde</string>
+	<string name="new_updates">Novas atualizações</string>
+	<string name="personal_data">ID do dispositivo, Informações de localização, ID Android, ID da aplicação, Carimbo de data/hora, etc.</string>
+	<string name="update_now">Atualizar agora</string>
+	<string name="main_update_later">Atualizar mais tarde</string>
+	<string name="new_updates">Novas atualizações</string>
+	<string name="personal_data">ID do dispositivo, Informações de localização, ID Android, ID da aplicação, Carimbo de data/hora, etc.</string>
+	<string name="update_now">Atualizar agora</string>
+	<string name="main_update_later">Atualizar mais tarde</string>
+	<string name="new_updates">Novas atualizações</string>
+	<string name="personal_data">ID do dispositivo, Informações de localização, ID Android, ID da aplicação, Carimbo de data/hora, etc.</string>
+	<string name="update_now">Atualizar agora</string>
+</resources>

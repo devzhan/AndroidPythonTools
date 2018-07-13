@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Dec 05 13:55:06 CST 2014
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!--[BUGFIX]-Mod by TCTNB.bo.xu,11/13/2013,PR-550430,  [Notes]The app's name should be "Notes" according to App list-->
+	<string name="app_name">"নোটগুলি"</string>
+	<!--[BUGFIX]-Mod by TCTNB.bo.xu,12/17/2013,PR-558777,  [Notes]In notes, some places do not match with ergo-->
+	<string name="add_note">"নোট যোগ করুন"</string>
+	<!--Type:string Purpose:mobile tips in Note
+when first open Note,the tips will show.
+help add Note ScreenPath:Launcher->Note-->
+	<string name="help_promt">"এই বাটন সংক্ষেপে আলোচনা করুন এবং আপনার প্রথম নোট তৈরি করুন।"</string>
+	<!---->
+	<string name="sort_by_time">"সময় দ্বারা বাছাই"</string>
+	<!---->
+	<string name="sort_by_color">"রঙ দ্বারা বাছাই"</string>
+	<!---->
+	<string name="camera">"ক্যামেরা"</string>
+	<!--Type:string Purpose:give user a prompt when click the detail item ScreenPath:Launcher > JrdGallery > picture > detail-->
+	<string name="album">"অ্যালবাম"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note->add reminder-->
+	<string name="record">"রেকর্ড"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note->add reminder-->
+	<string name="reminder">"রিমাইন্ডার"</string>
+	<!--Type:string Purpose:the reminder in Note ,for set reminder time when we add a note with reminder item ScreenPath:Launcher->Note-->
+	<string name="set_reminder">"অনুস্মারক সময় নির্ধারণ করুন।"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note-->
+	<string name="delete_item">"এটা মুছে ফেলুন?"</string>
+	<!---->
+	<string name="btn_ok">"ঠিক আছে"</string>
+	<!---->
+	<string name="btn_cancel">"বাতিল"</string>
+	<!-- no translation found for save_record -->
+	<skip />
+	<!-- no translation found for delete_menu_title -->
+	<skip />
+	<!-- no translation found for delete_these_item_title -->
+	<skip />
+	<!--PR817453 display wrong.Modified by hz_nanbing.zou at 24/10/2014 begin-->
+	<string name="delete_this_item_title">"আপনি এই নোট মুছে ফেলার ব্যাপারে নিশ্চিত ?"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note-->
+	<string name="add_limit">"সর্বোচ্চ দৈর্ঘ্য পৌঁছেছে !"</string>
+	<!--PR821313 edit too long will fore close.Add by hz_nanbing.zou at 28/10/2014 begin-->
+	<string name="search_hint">"অনুসন্ধান নোট"</string>
+	<!---->
+	<string name="search_label">"অনুসন্ধান করুন"</string>
+	<!---->
+	<string name="no_note_exist">"নোট নেই"</string>
+	<!---->
+	<string name="no_search_result">"অনুসন্ধান ফলাফল নেই"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="reminder_error">"সময় সেট করুন, বর্তমান সময়ের তুলনায় পূর্বের সময় অনুযায়ী"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="note_reminder">"উল্লেখ্য, অনুস্মারক"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches
+ ScreenPath:Launcher->Note-->
+	<string name="save_empty">"খালি নোট। ইনপুট এড়িয়ে চলুন।"</string>
+	<!---->
+	<string name="stack">"স্ট্যাক"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="widget_note_empty">"সম্পাদনা শুরু করার জন্য ক্লিক করুন"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="loading">"লোড হচ্ছে\u2026"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches
+ ScreenPath:Launcher->Note-->
+	<string name="insert_sd_card">"একটা এসডি কার্ড ঢোকান"</string>
+	<!--[BUGFIX]-ADD-END by wenlu.wu,11/26/2013,PR-558068 [BUGFIX]-ADD-BEGIN by wenlu.wu,12/17/2013,PR-573171-->
+	<string name="selected">"%s নির্বাচিত"</string>
+	<!-- no translation found for note_notify_text -->
+	<skip />
+</resources>

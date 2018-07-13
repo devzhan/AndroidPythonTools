@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">עדכן מאוחר יותר</string>
+	<string name="new_updates">עדכונים חדשים</string>
+	<string name="personal_data">מזהה התקן, נתוני מיקום, מזהה Android, מזהה יישומון, חותמת זמן וכדומה.</string>
+	<string name="update_now">עדכן עכשיו</string>
+</resources>

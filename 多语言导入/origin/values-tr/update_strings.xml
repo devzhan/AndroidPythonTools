@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">Daha sonra güncelle</string>
+	<string name="new_updates">Yeni güncellemeler</string>
+	<string name="personal_data">Cihaz Kimliği, Konum bilgisi, Android kimliği, Uygulama kimliği, Zaman damgası vb.</string>
+	<string name="update_now">Şimdi güncelle</string>
+</resources>

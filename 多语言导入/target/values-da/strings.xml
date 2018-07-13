@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Apr 03 10:50:38 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Noter"</string>
+	<!---->
+	<string name="add_note">"Tilføj note"</string>
+	<!---->
+	<string name="help_promt">"Tryk på denne knap \n for at oprette din første note."</string>
+	<!---->
+	<string name="sort_by_time">"Sortér efter tid"</string>
+	<!---->
+	<string name="sort_by_color">"Sortér efter farve"</string>
+	<!---->
+	<string name="camera">"Kamera"</string>
+	<!---->
+	<string name="album">"Galleri"</string>
+	<!---->
+	<string name="record">"Optag"</string>
+	<!---->
+	<string name="reminder">"Påmindelse"</string>
+	<!-- no translation found for notification -->
+	<skip />
+	<!---->
+	<string name="set_reminder">"Indstil påmindelsestid."</string>
+	<!---->
+	<string name="delete_item">"Slet?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Vis"</string>
+	<!---->
+	<string name="btn_cancel">"Annuller"</string>
+	<!---->
+	<string name="save_record">"Optagelsen er blevet gemt."</string>
+	<!---->
+	<string name="delete_menu_title">"slet"</string>
+	<!---->
+	<string name="delete_these_item_title">"Slet disse noter?"</string>
+	<!---->
+	<string name="delete_all">"Vil du slette alle noter?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Er du sikker på, du vil slette denne note?"</string>
+	<!-- no translation found for delete_this_color_item_title -->
+	<skip />
+	<!-- no translation found for delete_these_color_item_title -->
+	<skip />
+	<!---->
+	<string name="add_limit">"Den maksimale længde er nået!"</string>
+	<!---->
+	<string name="search_hint">"Søg i noter"</string>
+	<!---->
+	<string name="search_label">"Søg"</string>
+	<!---->
+	<string name="no_note_exist">"Ingen noter"</string>
+	<!---->
+	<string name="no_search_result">"Ingen søgeresultater"</string>
+	<!---->
+	<string name="reminder_error">"Det angivne tidspunkt er tidligere end det nuværende tidspunkt."</string>
+	<!---->
+	<string name="note_reminder">"Notepåmindelse"</string>
+	<!---->
+	<string name="save_empty">"Noten er tom. Indtast indhold."</string>
+	<!---->
+	<string name="stack">"Stak"</string>
+	<!---->
+	<string name="widget_note_empty">"Klik for at begynde at redigere"</string>
+	<!---->
+	<string name="loading">"Indlæser ..."</string>
+	<!---->
+	<string name="insert_sd_card">"Indsæt et SD-kort"</string>
+	<!---->
+	<string name="selected">"%s valgt"</string>
+	<!---->
+	<string name="note_notify_text">"Vælg for at annullere eller bekræfte denne påmindelse."</string>
+	<!---->
+	<string name="guest_mode_creat">"Du har ikke tilladelse til at oprette et notat i gæstetilstand."</string>
+	<!---->
+	<string name="guest_mode_view">"Du har ikke tilladelse til at vise notatet i gæstetilstand."</string>
+	<!---->
+	<string name="guest_mode_search">"Du har ikke tilladelse til at søge notater i gæstetilstand."</string>
+	<!---->
+	<string name="homekey_save">"Notat gemt!"</string>
+	<!---->
+	<string name="search_title">"Søgeresultater"</string>
+	<!---->
+	<string name="edit_add">"Tilføj nyt notat"</string>
+	<!---->
+	<string name="color_white">"Hvid"</string>
+	<!---->
+	<string name="color_blue">"Blå"</string>
+	<!---->
+	<string name="color_green">"Grøn"</string>
+	<!---->
+	<string name="color_yellow">"Gul"</string>
+	<!---->
+	<string name="color_red">"Rød"</string>
+	<!---->
+	<string name="color_purple">"Lilla"</string>
+	<!---->
+	<string name="color_black">"Sort"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Ikke tilstrækkelig plads på enheder. Frigør plads, og prøv igen."</string>
+	<!---->
+	<string name="record_error">"Stop Lydoptager, og prøv igen."</string>
+	<!---->
+	<string name="toast_loadPicture">"Billedindlæsning mislykkedes."</string>
+	<!---->
+	<string name="record_max_time">"Maks. tid er nået, og optagelsen er blevet gemt"</string>
+	<!---->
+	<string name="start_record">"Tryk for at aktivere"</string>
+	<!---->
+	<string name="speek_record">"Tal nu"</string>
+	<!-- no translation found for stop_record -->
+	<skip />
+	<!---->
+	<string name="record_incall">"Opkald i gang, kan ikke optage."</string>
+	<!---->
+	<string name="playrecord_incall">"Opkald i gang, kan ikke afspille."</string>
+	<!---->
+	<string name="recording">"Optagelser"</string>
+	<!---->
+	<string name="pause_record">"Tryk for at holde pause"</string>
+	<!---->
+	<string name="continue_record">"Tryk for at genoptage"</string>
+	<!---->
+	<string name="save_diarecord">"Gem"</string>
+	<!---->
+	<string name="discard_record">"Kassér"</string>
+	<!---->
+	<string name="no_file">"Ingen fil"</string>
+	<!---->
+	<string name="btn_dismiss">"Annuller"</string>
+	<!---->
+	<string name="remove_pic">"Fjern billede?"</string>
+	<!---->
+	<string name="btn_remove">"Fjern"</string>
+	<!-- no translation found for sure_discard_record -->
+	<skip />
+	<!---->
+	<string name="deleting">"Sletter..."</string>
+	<!---->
+	<string name="main_push_about">Om</string>
+	<string name="main_update_later">Opdatér senere</string>
+	<string name="new_updates">Nye opdateringer</string>
+	<string name="personal_data">Enheds-id, placeringsoplysninger, Android, app-id, tidsstempel osv.</string>
+	<string name="update_now">Opdatér nu</string>
+	<string name="main_update_later">Opdatér senere</string>
+	<string name="new_updates">Nye opdateringer</string>
+	<string name="personal_data">Enheds-id, placeringsoplysninger, Android, app-id, tidsstempel osv.</string>
+	<string name="update_now">Opdatér nu</string>
+	<string name="main_update_later">Opdatér senere</string>
+	<string name="new_updates">Nye opdateringer</string>
+	<string name="personal_data">Enheds-id, placeringsoplysninger, Android, app-id, tidsstempel osv.</string>
+	<string name="update_now">Opdatér nu</string>
+	<string name="main_update_later">Opdatér senere</string>
+	<string name="new_updates">Nye opdateringer</string>
+	<string name="personal_data">Enheds-id, placeringsoplysninger, Android, app-id, tidsstempel osv.</string>
+	<string name="update_now">Opdatér nu</string>
+	<string name="main_update_later">Opdatér senere</string>
+	<string name="new_updates">Nye opdateringer</string>
+	<string name="personal_data">Enheds-id, placeringsoplysninger, Android, app-id, tidsstempel osv.</string>
+	<string name="update_now">Opdatér nu</string>
+</resources>

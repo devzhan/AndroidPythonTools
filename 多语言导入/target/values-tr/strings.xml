@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Notlar"</string>
+	<!---->
+	<string name="add_note">"Not ekle"</string>
+	<!---->
+	<string name="help_promt">"İlk notunuzu oluşturmak için \n bu düğmeye dokunun."</string>
+	<!---->
+	<string name="sort_by_time">"Saate göre sırala"</string>
+	<!---->
+	<string name="sort_by_color">"Renge göre sırala"</string>
+	<!---->
+	<string name="camera">"Kamera"</string>
+	<!---->
+	<string name="album">"Galeri"</string>
+	<!---->
+	<string name="record">"Kaydet"</string>
+	<!---->
+	<string name="reminder">"Hatırlatıcı"</string>
+	<!---->
+	<string name="attachments">"Ekler"</string>
+	<!---->
+	<string name="colours">"Renkler"</string>
+	<!---->
+	<string name="set_reminder">"Hatırlatma zamanını ayarla."</string>
+	<!---->
+	<string name="delete_item">"Silinsin mi?"</string>
+	<!---->
+	<string name="btn_ok">"TAMAM"</string>
+	<!---->
+	<string name="btn_view">"Göster"</string>
+	<!---->
+	<string name="btn_cancel">"İptal"</string>
+	<!---->
+	<string name="save_record">"Kayıt kaydedildi."</string>
+	<!---->
+	<string name="delete_menu_title">"Sil"</string>
+	<!---->
+	<string name="delete_these_item_title">"Bu notlar silinsin mi?"</string>
+	<!---->
+	<string name="delete_all">"Tüm notları sil?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Bu notu silmek istediğinizden emin misiniz?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Bu renk klasörü silinsin mi?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Bu renk klasörleri silinsin mi?"</string>
+	<!---->
+	<string name="add_limit">"Maksimum uzunluğa erişildi!"</string>
+	<!---->
+	<string name="search_hint">"Notları ara"</string>
+	<!---->
+	<string name="search_label">"Ara"</string>
+	<!---->
+	<string name="sort">"Sırala"</string>
+	<!---->
+	<string name="no_note_exist">"Not yok"</string>
+	<!---->
+	<string name="no_search_result">"Arama sonucu yok"</string>
+	<!---->
+	<string name="reminder_error">"Ayarladığınız saat, şu anki saatten önce."</string>
+	<!---->
+	<string name="note_reminder">"Not hatırlatıcı"</string>
+	<!---->
+	<string name="save_empty">"Not boş. Lütfen içerik girin."</string>
+	<!---->
+	<string name="stack">"Yığın"</string>
+	<!---->
+	<string name="widget_note_empty">"Düzenlemeyi başlatmak için tıklayın"</string>
+	<!---->
+	<string name="loading">"Yükleniyor\u2026"</string>
+	<!---->
+	<string name="insert_sd_card">"SD kart yerleştirin"</string>
+	<!---->
+	<string name="selected">"%s seçili"</string>
+	<!---->
+	<string name="note_notify_text">"İptal\'i seçin veya bu anımsatıcıyı onaylayın."</string>
+	<!---->
+	<string name="guest_mode_creat">"Ziyaretçi modunda bir not oluşturmanıza izin verilmez."</string>
+	<!---->
+	<string name="guest_mode_view">"Ziyaretçi modunda notu görüntülemenize izin verilmez."</string>
+	<!---->
+	<string name="guest_mode_search">"Ziyaretçi modunda notları aramanıza izin verilmez."</string>
+	<!---->
+	<string name="homekey_save">"Kaydedilemedi!"</string>
+	<!---->
+	<string name="search_title">"Arama Sonucu"</string>
+	<!---->
+	<string name="edit_add">"Yeni not ekle"</string>
+	<!---->
+	<string name="color_white">"Beyaz"</string>
+	<!---->
+	<string name="color_blue">"Mavi"</string>
+	<!---->
+	<string name="color_green">"Yeşil"</string>
+	<!---->
+	<string name="color_yellow">"Sarı"</string>
+	<!---->
+	<string name="color_red">"Kırmızı"</string>
+	<!---->
+	<string name="color_purple">"Mor"</string>
+	<!---->
+	<string name="color_black">"Siyah"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Cihazlarda yetersiz alan, lütfen biraz alan boşaltıp tekrar deneyin."</string>
+	<!---->
+	<string name="record_error">"Lütfen Ses Kaydediciyi durdurun ve tekrar deneyin."</string>
+	<!---->
+	<string name="toast_loadPicture">"Resim yükleme hatası."</string>
+	<!---->
+	<string name="record_max_time">"Maksimum süreye ulaşıldı ve kayıt kaydedildi"</string>
+	<!---->
+	<string name="start_record">"Kaydetmek için dokunun"</string>
+	<!---->
+	<string name="speek_record">"Şimdi konuşun"</string>
+	<!---->
+	<string name="record_incall">"Çağrı devam ediyor, kayıt yapılamaz."</string>
+	<!---->
+	<string name="playrecord_incall">"Çağrı devam ediyor, kayıt çalınamaz."</string>
+	<!---->
+	<string name="recording">"Kayıtlar"</string>
+	<!---->
+	<string name="pause_record">"Duraklatmak için dokunun"</string>
+	<!---->
+	<string name="continue_record">"Devam ettirmek için dokunun"</string>
+	<!---->
+	<string name="save_diarecord">"Kaydet"</string>
+	<!---->
+	<string name="discard_record">"Sil"</string>
+	<!---->
+	<string name="no_file">"Dosya yok"</string>
+	<!---->
+	<string name="btn_dismiss">"Kapat"</string>
+	<!---->
+	<string name="remove_pic">"Resim kaldırılsın mı?"</string>
+	<!---->
+	<string name="btn_remove">"Kaldır"</string>
+	<!---->
+	<string name="deleting">"Siliyor..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Sesli notlar kaydetmek için, Notlar\'a mikrofon erişim izni verin."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Sesli notlar kaydetmek için, Notlar\'a depolama alanı erişim izni verin."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Resim çekmek için, Notlar\'a depolama alanı erişim izni verin."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Kayıtları oynatmak için, Notlar\'a depolama alanı erişim izni verin."</string>
+	<!---->
+	<string name="btn_permiss">"Ayarlar"</string>
+
+	<string name="main_push_about">"Hakkında"</string>
+	<string name="main_update_later">Daha sonra güncelle</string>
+	<string name="new_updates">Yeni güncellemeler</string>
+	<string name="personal_data">Cihaz Kimliği, Konum bilgisi, Android kimliği, Uygulama kimliği, Zaman damgası vb.</string>
+	<string name="update_now">Şimdi güncelle</string>
+	<string name="main_update_later">Daha sonra güncelle</string>
+	<string name="new_updates">Yeni güncellemeler</string>
+	<string name="personal_data">Cihaz Kimliği, Konum bilgisi, Android kimliği, Uygulama kimliği, Zaman damgası vb.</string>
+	<string name="update_now">Şimdi güncelle</string>
+	<string name="main_update_later">Daha sonra güncelle</string>
+	<string name="new_updates">Yeni güncellemeler</string>
+	<string name="personal_data">Cihaz Kimliği, Konum bilgisi, Android kimliği, Uygulama kimliği, Zaman damgası vb.</string>
+	<string name="update_now">Şimdi güncelle</string>
+	<string name="main_update_later">Daha sonra güncelle</string>
+	<string name="new_updates">Yeni güncellemeler</string>
+	<string name="personal_data">Cihaz Kimliği, Konum bilgisi, Android kimliği, Uygulama kimliği, Zaman damgası vb.</string>
+	<string name="update_now">Şimdi güncelle</string>
+	<string name="main_update_later">Daha sonra güncelle</string>
+	<string name="new_updates">Yeni güncellemeler</string>
+	<string name="personal_data">Cihaz Kimliği, Konum bilgisi, Android kimliği, Uygulama kimliği, Zaman damgası vb.</string>
+	<string name="update_now">Şimdi güncelle</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">Оновити пізніше</string>
+	<string name="new_updates">Нові оновлення</string>
+	<string name="personal_data">Ідентифікатор пристрою, дані про місцезнаходження, ідентифікатор Android, ідентифікатор програми, мітка часу тощо</string>
+	<string name="update_now">Оновити зараз</string>
+</resources>

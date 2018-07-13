@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+	<string name="main_update_later">Päivitä myöhemmin</string>
+	<string name="new_updates">Uusia päivityksiä</string>
+	<string name="personal_data">Laitetunnus, sijaintitietoja, androidid, appid, aikaleima, jne.</string>
+	<string name="update_now">Päivitä nyt</string>
+</resources>

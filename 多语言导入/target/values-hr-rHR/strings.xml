@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Bilješke"</string>
+	<!---->
+	<string name="add_note">"Dodaj bilješku"</string>
+	<!---->
+	<string name="help_promt">"Dodirnite ovu tipku za \nizradu svoje prve bilješke."</string>
+	<!---->
+	<string name="sort_by_time">"Sortiraj po vremenu"</string>
+	<!---->
+	<string name="sort_by_color">"Sortiraj po boji"</string>
+	<!---->
+	<string name="camera">"Fotoaparat"</string>
+	<!---->
+	<string name="album">"Album"</string>
+	<!---->
+	<string name="record">"Snimanje"</string>
+	<!---->
+	<string name="reminder">"Podsjetnik"</string>
+	<!---->
+	<string name="attachments">"Prilozi"</string>
+	<!---->
+	<string name="colours">"Boje"</string>
+	<!---->
+	<string name="set_reminder">"Postavi vrijeme podsjetnika."</string>
+	<!---->
+	<string name="delete_item">"Obrisati?"</string>
+	<!---->
+	<string name="btn_ok">"U redu"</string>
+	<!---->
+	<string name="btn_view">"Pogledaj"</string>
+	<!---->
+	<string name="btn_cancel">"ODUSTANI"</string>
+	<!---->
+	<string name="save_record">"Zapis je spremljen."</string>
+	<!---->
+	<string name="delete_menu_title">"Obriši"</string>
+	<!---->
+	<string name="delete_these_item_title">"Obrisati sve bilješke?"</string>
+	<!---->
+	<string name="delete_all">"Obrisati sve bilješke?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Obrisati ovu bilješku?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Obrisati ovu mapu s bojama?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Obrisati ove mape s bojama?"</string>
+	<!---->
+	<string name="add_limit">"Maksimalna duljina dostignuta!"</string>
+	<!---->
+	<string name="search_hint">"Pretraži bilješke"</string>
+	<!---->
+	<string name="search_label">"Pretraži"</string>
+	<!---->
+	<string name="sort">"Sortiraj"</string>
+	<!---->
+	<string name="no_note_exist">"Nema bilješki"</string>
+	<!---->
+	<string name="no_search_result">"Nema rezultata pretrage"</string>
+	<!---->
+	<string name="reminder_error">"Vrijeme koje ste postavili je ranije nego trenutno vrijeme."</string>
+	<!---->
+	<string name="note_reminder">"Podsjetnik za bilješku"</string>
+	<!---->
+	<string name="save_empty">"Bilješka je prazna. Molimo unesite sadržaj."</string>
+	<!---->
+	<string name="stack">"Niz"</string>
+	<!---->
+	<string name="widget_note_empty">"Kliknite za početak uređivanja"</string>
+	<!---->
+	<string name="loading">"Učitavanje\u2026"</string>
+	<!---->
+	<string name="insert_sd_card">"Umetnite SD karticu"</string>
+	<!---->
+	<string name="selected">"%s odabrano"</string>
+	<!---->
+	<string name="note_notify_text">"Odaberite za odbacivanje ili potvrdu ovog podsjetnika."</string>
+	<!---->
+	<string name="guest_mode_creat">"Nemate dozvolu za izradu bilješke u načinu gosta."</string>
+	<!---->
+	<string name="guest_mode_view">"Nije dozvoljen prikaz bilješke unutar načina gosta."</string>
+	<!---->
+	<string name="guest_mode_search">"Nije dozvoljena pretraga bilješki unutar načina gosta."</string>
+	<!---->
+	<string name="homekey_save">"Bilješka spremljena!"</string>
+	<!---->
+	<string name="search_title">"Rezultati pretrage"</string>
+	<!---->
+	<string name="edit_add">"Dodaj bilješku"</string>
+	<!---->
+	<string name="color_white">"Bijelo"</string>
+	<!---->
+	<string name="color_blue">"Plava"</string>
+	<!---->
+	<string name="color_green">"Zelena"</string>
+	<!---->
+	<string name="color_yellow">"Žuta"</string>
+	<!---->
+	<string name="color_red">"Crvena"</string>
+	<!---->
+	<string name="color_purple">"Ljubičasta"</string>
+	<!---->
+	<string name="color_black">"Crno"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Nedovoljno prostora na uređaju, molimo oslobodite nešto prostora i pokušajte ponovno."</string>
+	<!---->
+	<string name="record_error">"Molimo zaustavite Snimač zvuka i pokušajte ponovno."</string>
+	<!---->
+	<string name="toast_loadPicture">"Greška učitavanja slike."</string>
+	<!---->
+	<string name="record_max_time">"Maksimalno vrijeme dostignuto i zapis je spremljen"</string>
+	<!---->
+	<string name="start_record">"Dodirnite za snimanje"</string>
+	<!---->
+	<string name="speek_record">"Sada govorite"</string>
+	<!---->
+	<string name="record_incall">"Poziv u tijeku i snimanje nije moguće."</string>
+	<!---->
+	<string name="playrecord_incall">"Poziv u tijeku i reprodukcija nije moguća."</string>
+	<!---->
+	<string name="recording">"Snimke"</string>
+	<!---->
+	<string name="pause_record">"Dodirnite za pauzu"</string>
+	<!---->
+	<string name="continue_record">"Dodirnite za nastavak"</string>
+	<!---->
+	<string name="save_diarecord">"SPREMI"</string>
+	<!---->
+	<string name="discard_record">"Odbaci"</string>
+	<!---->
+	<string name="no_file">"Nema datoteke"</string>
+	<!---->
+	<string name="btn_dismiss">"Odbaci"</string>
+	<!---->
+	<string name="remove_pic">"Ukloniti sliku?"</string>
+	<!---->
+	<string name="btn_remove">"Ukloni"</string>
+	<!---->
+	<string name="deleting">"Brisanje..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Za snimanje glasovnih bilješki dozvolite Bilješkama pristup mikrofonu."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Za snimanje glasovnih bilješki dozvolite Bilješkama pristup pohrani."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Za snimanje fotografija dozvolite Bilješkama pristup pohrani."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Za reproduciranje snimki dozvolite Bilješkama pristup pohrani."</string>
+	<!---->
+	<string name="btn_permiss">"Postavke"</string>
+</resources>

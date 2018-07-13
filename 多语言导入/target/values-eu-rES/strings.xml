@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Oharrak"</string>
+	<!---->
+	<string name="add_note">"Sortu"</string>
+	<!---->
+	<string name="help_promt">"Ukitu botoia \n lehenengo oharra sortzeko."</string>
+	<!---->
+	<string name="sort_by_time">"Ordenatu orduaren arabera"</string>
+	<!---->
+	<string name="sort_by_color">"Ordenatu kolorearen arabera"</string>
+	<!---->
+	<string name="camera">"Kamera"</string>
+	<!---->
+	<string name="album">"Galeria"</string>
+	<!---->
+	<string name="record">"Grabatu"</string>
+	<!---->
+	<string name="reminder">"Abisua"</string>
+	<!---->
+	<string name="attachments">"Eranskinak"</string>
+	<!---->
+	<string name="colours">"Koloreak"</string>
+	<!---->
+	<string name="set_reminder">"Ezarri abisuaren ordua."</string>
+	<!---->
+	<string name="delete_item">"Ezabatu?"</string>
+	<!---->
+	<string name="btn_ok">"Ados"</string>
+	<!---->
+	<string name="btn_view">"Ikusi"</string>
+	<!---->
+	<string name="btn_cancel">"Leheneratu"</string>
+	<!---->
+	<string name="save_record">"Erregistroa gorde da."</string>
+	<!---->
+	<string name="delete_menu_title">"Ezabatu"</string>
+	<!---->
+	<string name="delete_these_item_title">"Oharrak ezabatu?"</string>
+	<!---->
+	<string name="delete_all">"Ohar guztiak ezabatu?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Ziur oharra ezabatu nahi duzula?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Koloreen karpeta hau ezabatu?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Koloreen karpeta hauek ezabatu?"</string>
+	<!---->
+	<string name="add_limit">"Gehienezko luzerara iritsi da!"</string>
+	<!---->
+	<string name="search_hint">"Bilatu oharrak"</string>
+	<!---->
+	<string name="search_label">"Bilatu"</string>
+	<!---->
+	<string name="sort">"Ordenatu"</string>
+	<!---->
+	<string name="no_note_exist">"Ez dago oharrik"</string>
+	<!---->
+	<string name="no_search_result">"Ez dago bilaketa-emaitzarik"</string>
+	<!---->
+	<string name="reminder_error">"Ezarri duzun ordua uneko ordua baino lehenagokoa da."</string>
+	<!---->
+	<string name="note_reminder">"Oharraren abisua"</string>
+	<!---->
+	<string name="save_empty">"Oharra hutsik dago. Idatzi edukia."</string>
+	<!---->
+	<string name="stack">"Pila"</string>
+	<!---->
+	<string name="widget_note_empty">"Sakatu editatzen hasteko"</string>
+	<!---->
+	<string name="loading">"Kargatzen\u2026"</string>
+	<!---->
+	<string name="insert_sd_card">"Sartu SD txartela"</string>
+	<!---->
+	<string name="selected">"%s hautatuta"</string>
+	<!---->
+	<string name="note_notify_text">"Hautatu abisua bertan behera uzteko edo berresteko."</string>
+	<!---->
+	<string name="guest_mode_creat">"Gonbidatu moduan ez duzu oharrak sortzeko baimenik."</string>
+	<!---->
+	<string name="guest_mode_view">"Gonbidatu moduan ezin duzu oharra ikusi."</string>
+	<!---->
+	<string name="guest_mode_search">"Gonbidatu moduan ezin duzu oharrik bilatu."</string>
+	<!---->
+	<string name="homekey_save">"Oharra gorde da."</string>
+	<!---->
+	<string name="search_title">"Bilaketa-emaitza"</string>
+	<!---->
+	<string name="edit_add">"Gehitu oharra"</string>
+	<!---->
+	<string name="color_white">"Zuria"</string>
+	<!---->
+	<string name="color_blue">"Urdina"</string>
+	<!---->
+	<string name="color_green">"Berdea"</string>
+	<!---->
+	<string name="color_yellow">"Horia"</string>
+	<!---->
+	<string name="color_red">"Gorria"</string>
+	<!---->
+	<string name="color_purple">"Morea"</string>
+	<!---->
+	<string name="color_black">"Beltza"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Ez dago behar adina leku gailuetan. Egin lekua eta saiatu berriro."</string>
+	<!---->
+	<string name="record_error">"Gelditu grabagailua eta saiatu berriro."</string>
+	<!---->
+	<string name="toast_loadPicture">"Ezin izan da irudia kargatu."</string>
+	<!---->
+	<string name="record_max_time">"Denbora-mugara iritsi da eta erregistroa gorde da"</string>
+	<!---->
+	<string name="start_record">"Sakatu grabatzeko"</string>
+	<!---->
+	<string name="speek_record">"Hitz egin"</string>
+	<!---->
+	<string name="record_incall">"Deia abian da eta ezin da grabatu."</string>
+	<!---->
+	<string name="playrecord_incall">"Deia abian da eta ezin da grabaketa erreproduzitu."</string>
+	<!---->
+	<string name="recording">"Grabaketak"</string>
+	<!---->
+	<string name="pause_record">"Ukitu pausatzeko"</string>
+	<!---->
+	<string name="continue_record">"Ukitu berrekiteko"</string>
+	<!---->
+	<string name="save_diarecord">"Gorde"</string>
+	<!---->
+	<string name="discard_record">"Baztertu"</string>
+	<!---->
+	<string name="no_file">"Ez dago fitxategirik"</string>
+	<!---->
+	<string name="btn_dismiss">"Baztertu"</string>
+	<!---->
+	<string name="remove_pic">"Argazkia kendu?"</string>
+	<!---->
+	<string name="btn_remove">"Kendu"</string>
+	<!---->
+	<string name="deleting">"Ezabatzen…"</string>
+	<!---->
+	<string name="audio_permiss_lable">"Ahots-oharrak grabatzeko, eman mikrofonoa atzitzeko baimena Oharrak eginbideari."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Ahots-oharrak grabatzeko, eman memoria atzitzeko baimena Oharrak eginbideari."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Argazkiak ateratzeko, eman memoria atzitzeko baimena Oharrak eginbideari."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Grabaketak erreproduzitzeko, eman memoria atzitzeko baimena Oharrak eginbideari."</string>
+	<!---->
+	<string name="btn_permiss">"Ezarpenak"</string>
+</resources>

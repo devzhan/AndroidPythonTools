@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Notities"</string>
+	<!---->
+	<string name="add_note">"Opmerking toevoegen"</string>
+	<!---->
+	<string name="help_promt">"Raak deze knop aan om \n uw eerste notitie te maken."</string>
+	<!---->
+	<string name="sort_by_time">"Sorteren op tijd"</string>
+	<!---->
+	<string name="sort_by_color">"Sorteren op kleur"</string>
+	<!---->
+	<string name="camera">"Camera"</string>
+	<!---->
+	<string name="album">"Galerij"</string>
+	<!---->
+	<string name="record">"Opnemen"</string>
+	<!---->
+	<string name="reminder">"Herinnering"</string>
+	<!---->
+	<string name="attachments">"Bijlagen"</string>
+	<!---->
+	<string name="colours">"Kleuren"</string>
+	<!---->
+	<string name="set_reminder">"Stel de herinneringstijd in."</string>
+	<!---->
+	<string name="delete_item">"Verwijderen?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Weergeven"</string>
+	<!---->
+	<string name="btn_cancel">"Annuleren"</string>
+	<!---->
+	<string name="save_record">"De opname is opgeslagen."</string>
+	<!---->
+	<string name="delete_menu_title">"Verwijderen"</string>
+	<!---->
+	<string name="delete_these_item_title">"Deze opmerkingen verwijderen?"</string>
+	<!---->
+	<string name="delete_all">"Alle notities verwijderen?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Weet u zeker dat u deze notitie wilt verwijderen?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Deze kleurmap verwijderen?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Deze kleurmappen verwijderen?"</string>
+	<!---->
+	<string name="add_limit">"Maximum lengte bereikt."</string>
+	<!---->
+	<string name="search_hint">"Notities zoeken"</string>
+	<!---->
+	<string name="search_label">"Zoeken"</string>
+	<!---->
+	<string name="sort">"Sorteren"</string>
+	<!---->
+	<string name="no_note_exist">"Geen notities"</string>
+	<!---->
+	<string name="no_search_result">"Geen zoekresultaten"</string>
+	<!---->
+	<string name="reminder_error">"De ingestelde tijd ligt voor de huidige tijd."</string>
+	<!---->
+	<string name="note_reminder">"Herinnering voor notitie"</string>
+	<!---->
+	<string name="save_empty">"De notitie is leeg. Voer inhoud voor de notitie in."</string>
+	<!---->
+	<string name="stack">"Stapelen"</string>
+	<!---->
+	<string name="widget_note_empty">"Klik om bewerken te starten"</string>
+	<!---->
+	<string name="loading">"Laden..."</string>
+	<!---->
+	<string name="insert_sd_card">"Een SD-kaart plaatsen"</string>
+	<!---->
+	<string name="selected">"%s geselecteerd"</string>
+	<!---->
+	<string name="note_notify_text">"Selecteer om herinnering te negeren of bevestigen."</string>
+	<!---->
+	<string name="guest_mode_creat">"U hebt geen rechten om een opmerking te maken in de gastmodus."</string>
+	<!---->
+	<string name="guest_mode_view">"U kunt de notitie niet bekijken in de gastmodus."</string>
+	<!---->
+	<string name="guest_mode_search">"U kunt geen notities zoeken in de gastmodus."</string>
+	<!---->
+	<string name="homekey_save">"Notitie opgeslagen."</string>
+	<!---->
+	<string name="search_title">"Zoekresultaat"</string>
+	<!---->
+	<string name="edit_add">"Nwe notitie toev."</string>
+	<!---->
+	<string name="color_white">"Wit"</string>
+	<!---->
+	<string name="color_blue">"Blauw"</string>
+	<!---->
+	<string name="color_green">"Groen"</string>
+	<!---->
+	<string name="color_yellow">"Geel"</string>
+	<!---->
+	<string name="color_red">"Rood"</string>
+	<!---->
+	<string name="color_purple">"Paars"</string>
+	<!---->
+	<string name="color_black">"Zwart"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Onvoldoende ruimte op apparaten. Maak meer ruimte vrij en probeer het opnieuw."</string>
+	<!---->
+	<string name="record_error">"Stop de geluidsrecorder en probeer het opnieuw."</string>
+	<!---->
+	<string name="toast_loadPicture">"Afbeelding laden is mislukt."</string>
+	<!---->
+	<string name="record_max_time">"Maximale tijd bereikt en de record is opgeslagen"</string>
+	<!---->
+	<string name="start_record">"Tik om op te nemen"</string>
+	<!---->
+	<string name="speek_record">"Spreek nu"</string>
+	<!---->
+	<string name="record_incall">"Oproep actief, kan niet opnemen."</string>
+	<!---->
+	<string name="playrecord_incall">"Oproep actief, kan opname niet afspelen."</string>
+	<!---->
+	<string name="recording">"Opnamen"</string>
+	<!---->
+	<string name="pause_record">"Raak aan om te pauzeren"</string>
+	<!---->
+	<string name="continue_record">"Raak aan om te hervatten"</string>
+	<!---->
+	<string name="save_diarecord">"Opslaan"</string>
+	<!---->
+	<string name="discard_record">"Wegdoen"</string>
+	<!---->
+	<string name="no_file">"Geen bestand"</string>
+	<!---->
+	<string name="btn_dismiss">"Negeren"</string>
+	<!---->
+	<string name="remove_pic">"Foto verwijderen?"</string>
+	<!---->
+	<string name="btn_remove">"Verwijderen"</string>
+	<!---->
+	<string name="deleting">"Verwijderen..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Voor het opnemen van spraaknotities, moet u Notities toestemming verlenen voor toegang tot de microfoon."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Voor het opnemen van spraaknotities, moet u Notities  toestemming verlenen voor toegang tot de opslag."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Voor het opnemen van spraaknotities, moet u Notities toestemming verlenen voor toegang tot de opslag."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Voor het afspelen van opnamen, moet u Notities  toestemming verlenen voor toegang tot de opslag."</string>
+	<!---->
+	<string name="btn_permiss">"Instellingen"</string>
+	<!---->
+	<string name="main_push_about">"Over"</string>
+	<string name="main_update_later">Later bijwerken</string>
+	<string name="new_updates">Nieuwe updates</string>
+	<string name="personal_data">Apparaat-ID, Locatiegegevens, Android-id, App-id, Tijdstempel, enz.</string>
+	<string name="update_now">Nu bijwerken</string>
+	<string name="main_update_later">Later bijwerken</string>
+	<string name="new_updates">Nieuwe updates</string>
+	<string name="personal_data">Apparaat-ID, Locatiegegevens, Android-id, App-id, Tijdstempel, enz.</string>
+	<string name="update_now">Nu bijwerken</string>
+	<string name="main_update_later">Later bijwerken</string>
+	<string name="new_updates">Nieuwe updates</string>
+	<string name="personal_data">Apparaat-ID, Locatiegegevens, Android-id, App-id, Tijdstempel, enz.</string>
+	<string name="update_now">Nu bijwerken</string>
+	<string name="main_update_later">Later bijwerken</string>
+	<string name="new_updates">Nieuwe updates</string>
+	<string name="personal_data">Apparaat-ID, Locatiegegevens, Android-id, App-id, Tijdstempel, enz.</string>
+	<string name="update_now">Nu bijwerken</string>
+	<string name="main_update_later">Later bijwerken</string>
+	<string name="new_updates">Nieuwe updates</string>
+	<string name="personal_data">Apparaat-ID, Locatiegegevens, Android-id, App-id, Tijdstempel, enz.</string>
+	<string name="update_now">Nu bijwerken</string>
+</resources>

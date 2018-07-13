@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Poznámky"</string>
+	<!---->
+	<string name="add_note">"Přidat poznámku"</string>
+	<!---->
+	<string name="help_promt">"Stisknutím tohoto tlačítka \n vytvoříte první poznámku."</string>
+	<!---->
+	<string name="sort_by_time">"Seřadit podle času"</string>
+	<!---->
+	<string name="sort_by_color">"Seřadit podle barvy"</string>
+	<!---->
+	<string name="camera">"Fotoaparát"</string>
+	<!---->
+	<string name="album">"Galerie"</string>
+	<!---->
+	<string name="record">"Záznam"</string>
+	<!---->
+	<string name="reminder">"Připomínka"</string>
+	<!---->
+	<string name="attachments">"Přílohy"</string>
+	<!---->
+	<string name="colours">"Barvy"</string>
+	<!---->
+	<string name="set_reminder">"Nastavte čas připomínky."</string>
+	<!---->
+	<string name="delete_item">"Odstranit?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Zobrazit"</string>
+	<!---->
+	<string name="btn_cancel">"Zrušit"</string>
+	<!---->
+	<string name="save_record">"Záznam byl uložen."</string>
+	<!---->
+	<string name="delete_menu_title">"Odstranit"</string>
+	<!---->
+	<string name="delete_these_item_title">"Odstranit tyto poznámky?"</string>
+	<!---->
+	<string name="delete_all">"Odstranit všechny poznámky?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Opravdu chcete tuto poznámku odstranit?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Odstranit tuto složku barev?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Odstranit tyto složky barev?"</string>
+	<!---->
+	<string name="add_limit">"Byla dosažena maximální délka!"</string>
+	<!---->
+	<string name="search_hint">"Hledat poznámky"</string>
+	<!---->
+	<string name="search_label">"Hledat"</string>
+	<!---->
+	<string name="sort">"Seřadit"</string>
+	<!---->
+	<string name="no_note_exist">"Žádné poznámky"</string>
+	<!---->
+	<string name="no_search_result">"Žádné výsledky vyhledávání"</string>
+	<!---->
+	<string name="reminder_error">"Nastavený čas je v minulosti."</string>
+	<!---->
+	<string name="note_reminder">"Připomínka poznámky"</string>
+	<!---->
+	<string name="save_empty">"Poznámka je prázdná. Zadejte obsah."</string>
+	<!---->
+	<string name="stack">"Skládat"</string>
+	<!---->
+	<string name="widget_note_empty">"Kliknutím zahájíte úpravy"</string>
+	<!---->
+	<string name="loading">"Načítání..."</string>
+	<!---->
+	<string name="insert_sd_card">"Vložte kartu SD"</string>
+	<!---->
+	<string name="selected">"Vybráno: %s"</string>
+	<!---->
+	<string name="note_notify_text">"Zrušte nebo potvrďte tuto připomínku."</string>
+	<!---->
+	<string name="guest_mode_creat">"Nemáte oprávnění k vytvoření poznámky v režimu Host."</string>
+	<!---->
+	<string name="guest_mode_view">"V režimu hosta nemáte oprávnění k prohlížení poznámky."</string>
+	<!---->
+	<string name="guest_mode_search">"V režimu hosta nemáte oprávnění ke hledání poznámek."</string>
+	<!---->
+	<string name="homekey_save">"Poznámka byla uložena!"</string>
+	<!---->
+	<string name="search_title">"Výsledek vyhledávání"</string>
+	<!---->
+	<string name="edit_add">"Přidat poznámku"</string>
+	<!---->
+	<string name="color_white">"Bílá"</string>
+	<!---->
+	<string name="color_blue">"Modrá"</string>
+	<!---->
+	<string name="color_green">"Zelená"</string>
+	<!---->
+	<string name="color_yellow">"Žlutá"</string>
+	<!---->
+	<string name="color_red">"Červená"</string>
+	<!---->
+	<string name="color_purple">"Fialová"</string>
+	<!---->
+	<string name="color_black">"Černý"</string>
+	<!---->
+	<string name="msg_devices_no_space">"V zařízeních není dostatek místa. Uvolněte místo a zkuste to znovu."</string>
+	<!---->
+	<string name="record_error">"Zastavte záznam zvuku a zkuste to znovu."</string>
+	<!---->
+	<string name="toast_loadPicture">"Došlo k chybě načítání obrázku."</string>
+	<!---->
+	<string name="record_max_time">"Byla dosažena maximální délka a záznam byl uložen"</string>
+	<!---->
+	<string name="start_record">"Klepnutím zahájíte záznam"</string>
+	<!---->
+	<string name="speek_record">"Promluvte"</string>
+	<!---->
+	<string name="record_incall">"Záznam nelze vytvořit, pokud probíhá hovor."</string>
+	<!---->
+	<string name="playrecord_incall">"Záznam nelze přehrát, pokud probíhá hovor."</string>
+	<!---->
+	<string name="recording">"Nahrávky"</string>
+	<!---->
+	<string name="pause_record">"Stisknutím pozastavíte přehrávání"</string>
+	<!---->
+	<string name="continue_record">"Stisknutím obnovíte přehrávání"</string>
+	<!---->
+	<string name="save_diarecord">"Uložit"</string>
+	<!---->
+	<string name="discard_record">"Odstranit"</string>
+	<!---->
+	<string name="no_file">"Žádný soubor"</string>
+	<!---->
+	<string name="btn_dismiss">"Zrušit"</string>
+	<!---->
+	<string name="remove_pic">"Odebrat obrázek?"</string>
+	<!---->
+	<string name="btn_remove">"Odstranit"</string>
+	<!---->
+	<string name="deleting">"Odstraňování..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Chcete-li nahrávat hlasové poznámky, povolte aplikaci Poznámky přístup k mikrofonu."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Chcete-li nahrávat hlasové poznámky, povolte aplikaci Poznámky přístup k úložišti."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Chcete-li pořizovat fotografie, povolte aplikaci Poznámky přístup k úložišti."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Chcete-li přehrávat nahrávky, povolte aplikaci Poznámky přístup k úložišti."</string>
+	<!---->
+	<string name="btn_permiss">"Nastavení"</string>
+	<!---->
+	<string name="main_push_about">O produktu</string>
+	<string name="main_update_later">Aktualizovat později</string>
+	<string name="new_updates">Nové aktualizace</string>
+	<string name="personal_data">ID zařízení, informace o poloze, ID systému Android, ID aplikace, časové razítko atd.</string>
+	<string name="update_now">Aktualizovat</string>
+	<string name="main_update_later">Aktualizovat později</string>
+	<string name="new_updates">Nové aktualizace</string>
+	<string name="personal_data">ID zařízení, informace o poloze, ID systému Android, ID aplikace, časové razítko atd.</string>
+	<string name="update_now">Aktualizovat</string>
+	<string name="main_update_later">Aktualizovat později</string>
+	<string name="new_updates">Nové aktualizace</string>
+	<string name="personal_data">ID zařízení, informace o poloze, ID systému Android, ID aplikace, časové razítko atd.</string>
+	<string name="update_now">Aktualizovat</string>
+	<string name="main_update_later">Aktualizovat později</string>
+	<string name="new_updates">Nové aktualizace</string>
+	<string name="personal_data">ID zařízení, informace o poloze, ID systému Android, ID aplikace, časové razítko atd.</string>
+	<string name="update_now">Aktualizovat</string>
+	<string name="main_update_later">Aktualizovat později</string>
+	<string name="new_updates">Nové aktualizace</string>
+	<string name="personal_data">ID zařízení, informace o poloze, ID systému Android, ID aplikace, časové razítko atd.</string>
+	<string name="update_now">Aktualizovat</string>
+</resources>
