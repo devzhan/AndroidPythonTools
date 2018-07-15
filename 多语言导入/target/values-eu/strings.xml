@@ -173,4 +173,8 @@
 	<string name="new_updates">Eguneratze berriak</string>
 	<string name="personal_data">Gailuaren IDa, Kokapenari buruzko informazioa, Androidid, Appid, Denbora-marka, etab.</string>
 	<string name="update_now">Eguneratu</string>
+	<string name="main_update_later">Eguneratu geroago</string>
+	<string name="new_updates">Eguneratze berriak</string>
+	<string name="personal_data">Gailuaren IDa, Kokapenari buruzko informazioa, Androidid, Appid, Denbora-marka, etab.</string>
+	<string name="update_now">Eguneratu</string>
 </resources>

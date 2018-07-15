@@ -91,4 +91,8 @@ help add Note ScreenPath:Launcher->Note-->
 	<string name="new_updates">تحديثات جديدة</string>
 	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
 	<string name="update_now">تحديث الان</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
 </resources>

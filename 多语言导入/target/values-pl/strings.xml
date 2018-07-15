@@ -173,4 +173,8 @@
 	<string name="new_updates">Nowe aktualizacje</string>
 	<string name="personal_data">ID urządzenia, informacja o lokalizacji, AndroidID, appID, znacznik czasu itp.</string>
 	<string name="update_now">Zaktualizuj teraz</string>
+	<string name="main_update_later">Aktualizuj później</string>
+	<string name="new_updates">Nowe aktualizacje</string>
+	<string name="personal_data">ID urządzenia, informacja o lokalizacji, AndroidID, appID, znacznik czasu itp.</string>
+	<string name="update_now">Zaktualizuj teraz</string>
 </resources>

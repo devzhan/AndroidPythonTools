@@ -173,4 +173,8 @@
 	<string name="new_updates">Нові оновлення</string>
 	<string name="personal_data">Ідентифікатор пристрою, дані про місцезнаходження, ідентифікатор Android, ідентифікатор програми, мітка часу тощо</string>
 	<string name="update_now">Оновити зараз</string>
+	<string name="main_update_later">Оновити пізніше</string>
+	<string name="new_updates">Нові оновлення</string>
+	<string name="personal_data">Ідентифікатор пристрою, дані про місцезнаходження, ідентифікатор Android, ідентифікатор програми, мітка часу тощо</string>
+	<string name="update_now">Оновити зараз</string>
 </resources>

@@ -173,4 +173,8 @@
 	<string name="new_updates">Нови актуализации</string>
 	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
 	<string name="update_now">Актуализиране сега</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
 </resources>

@@ -91,4 +91,8 @@ help add Note ScreenPath:Launcher->Note-->
 	<string name="new_updates">Uued värskendused</string>
 	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
 	<string name="update_now">Uuenda kohe</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
 </resources>
