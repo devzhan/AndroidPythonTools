@@ -167,4 +167,8 @@
 	<string name="new_updates">Uusia päivityksiä</string>
 	<string name="personal_data">Laitetunnus, sijaintitietoja, androidid, appid, aikaleima, jne.</string>
 	<string name="update_now">Päivitä nyt</string>
+	<string name="main_update_later">Päivitä myöhemmin</string>
+	<string name="new_updates">Uusia päivityksiä</string>
+	<string name="personal_data">Laitetunnus, sijaintitietoja, androidid, appid, aikaleima, jne.</string>
+	<string name="update_now">Päivitä nyt</string>
 </resources>

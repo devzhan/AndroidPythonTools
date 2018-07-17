@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="update_now">"立即升級" </string >
+<string name="new_updates">"新更新" </string >
+<string name="main_update_later">"稍後更新" </string >
+</resources>

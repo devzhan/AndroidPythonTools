@@ -177,4 +177,8 @@
 	<string name="new_updates">Actualizări noi</string>
 	<string name="personal_data">ID dispozitiv, informații privind locația, ID Android, ID aplicație, marcaj temporal etc.</string>
 	<string name="update_now">Actualizați acum</string>
+	<string name="main_update_later">Actualizați mai târziu</string>
+	<string name="new_updates">Actualizări noi</string>
+	<string name="personal_data">ID dispozitiv, informații privind locația, ID Android, ID aplicație, marcaj temporal etc.</string>
+	<string name="update_now">Actualizați acum</string>
 </resources>

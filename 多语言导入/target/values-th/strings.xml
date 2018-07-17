@@ -177,4 +177,8 @@
 	<string name="new_updates">มีอัพเดตใหม่</string>
 	<string name="personal_data">รหัส ID ของอุปกรณ์, ข้อมูลตำแหน่ง, รหัส ID ของแอนดรอยด์, รหัส ID ของแอป, ประทับเวลา ฯลฯ</string>
 	<string name="update_now">อัปเดตตอนนี้</string>
+	<string name="main_update_later">อัปเดตในภายหลัง</string>
+	<string name="new_updates">มีอัพเดตใหม่</string>
+	<string name="personal_data">รหัส ID ของอุปกรณ์, ข้อมูลตำแหน่ง, รหัส ID ของแอนดรอยด์, รหัส ID ของแอป, ประทับเวลา ฯลฯ</string>
+	<string name="update_now">อัปเดตตอนนี้</string>
 </resources>

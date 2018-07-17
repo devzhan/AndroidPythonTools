@@ -177,4 +177,8 @@
 	<string name="new_updates">新しい更新プログラムがあります</string>
 	<string name="personal_data">デバイスID、場所情報、Androidid、Appid、タイムスタンプなど</string>
 	<string name="update_now">今すぐ更新する</string>
+	<string name="main_update_later">後でアップデートする</string>
+	<string name="new_updates">新しい更新プログラムがあります</string>
+	<string name="personal_data">デバイスID、場所情報、Androidid、Appid、タイムスタンプなど</string>
+	<string name="update_now">今すぐ更新する</string>
 </resources>

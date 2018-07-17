@@ -167,4 +167,8 @@
 	<string name="new_updates">به روزرسانی های جدید</string>
 	<string name="personal_data">شناسه دستگاه، اطلاعات مکان، شناسه Android، شناسه برنامه، مهر زمان و سایر موارد.</string>
 	<string name="update_now">اکنون به روزرسانی کنید</string>
+	<string name="main_update_later">در فرصتی دیگر به روزرسانی کنید</string>
+	<string name="new_updates">به روزرسانی های جدید</string>
+	<string name="personal_data">شناسه دستگاه، اطلاعات مکان، شناسه Android، شناسه برنامه، مهر زمان و سایر موارد.</string>
+	<string name="update_now">اکنون به روزرسانی کنید</string>
 </resources>

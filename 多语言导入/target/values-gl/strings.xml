@@ -177,4 +177,8 @@
 	<string name="new_updates">Novas actualizacións</string>
 	<string name="personal_data">ID do dispositivo, información sobre o sitio, ID de Android, ID de aplicación, selo temporal, etc.</string>
 	<string name="update_now">Actualizar agora</string>
+	<string name="main_update_later">Actualizar logo</string>
+	<string name="new_updates">Novas actualizacións</string>
+	<string name="personal_data">ID do dispositivo, información sobre o sitio, ID de Android, ID de aplicación, selo temporal, etc.</string>
+	<string name="update_now">Actualizar agora</string>
 </resources>

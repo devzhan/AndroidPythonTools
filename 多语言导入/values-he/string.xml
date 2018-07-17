@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="update_now">"עדכן עכשיו" </string >
+<string name="new_updates">"עדכונים חדשים" </string >
+<string name="main_update_later">"עדכן מאוחר יותר" </string >
+</resources>

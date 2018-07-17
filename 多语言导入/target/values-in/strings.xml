@@ -177,4 +177,8 @@
 	<string name="new_updates">Pembaruan terkini</string>
 	<string name="personal_data">ID perangkat, Informasi lokasi, Id Android, Id apl, Cap waktu, dll.</string>
 	<string name="update_now">Perbarui sekarang</string>
+	<string name="main_update_later">Perbarui nanti</string>
+	<string name="new_updates">Pembaruan terkini</string>
+	<string name="personal_data">ID perangkat, Informasi lokasi, Id Android, Id apl, Cap waktu, dll.</string>
+	<string name="update_now">Perbarui sekarang</string>
 </resources>

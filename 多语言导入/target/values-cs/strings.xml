@@ -177,4 +177,8 @@
 	<string name="new_updates">Nové aktualizace</string>
 	<string name="personal_data">ID zařízení, informace o poloze, ID systému Android, ID aplikace, časové razítko atd.</string>
 	<string name="update_now">Aktualizovat</string>
+	<string name="main_update_later">Aktualizovat později</string>
+	<string name="new_updates">Nové aktualizace</string>
+	<string name="personal_data">ID zařízení, informace o poloze, ID systému Android, ID aplikace, časové razítko atd.</string>
+	<string name="update_now">Aktualizovat</string>
 </resources>
