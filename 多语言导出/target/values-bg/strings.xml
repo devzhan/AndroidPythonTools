@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Бележки"</string>
+	<!---->
+	<string name="add_note">"Добавете бележка"</string>
+	<!---->
+	<string name="help_promt">"Докоснете този бутон за да създадете Вашата първа бележка."</string>
+	<!---->
+	<string name="sort_by_time">"Сортирай по време"</string>
+	<!---->
+	<string name="sort_by_color">"Сортирай по цвят"</string>
+	<!---->
+	<string name="camera">"Камера"</string>
+	<!---->
+	<string name="album">"Галерия"</string>
+	<!---->
+	<string name="record">"Запиши"</string>
+	<!---->
+	<string name="reminder">"Напомняне"</string>
+	<!---->
+	<string name="attachments">"Приложени файлове"</string>
+	<!---->
+	<string name="colours">"Цветове"</string>
+	<!---->
+	<string name="set_reminder">"Задайте време за напомняне."</string>
+	<!---->
+	<string name="delete_item">"Изтриване?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Преглед"</string>
+	<!---->
+	<string name="btn_cancel">"Отказ"</string>
+	<!---->
+	<string name="save_record">"Записът е запазен."</string>
+	<!---->
+	<string name="delete_menu_title">"Изтрий"</string>
+	<!---->
+	<string name="delete_these_item_title">"Изтриване на тези бележки?"</string>
+	<!---->
+	<string name="delete_all">"Изтриване на всички бележки?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Сигурни ли сте, че искате да изтриете тази бележка?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Изтриване на тази папка с цветове?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Изтриване на тези папки с цветове?"</string>
+	<!---->
+	<string name="add_limit">"Достигната е максималната дължина!"</string>
+	<!---->
+	<string name="search_hint">"Търсене на бележки"</string>
+	<!---->
+	<string name="search_label">"Търсене"</string>
+	<!---->
+	<string name="sort">"Сортиране"</string>
+	<!---->
+	<string name="no_note_exist">"Няма бележки"</string>
+	<!---->
+	<string name="no_search_result">"Няма резултати от търсенето"</string>
+	<!---->
+	<string name="reminder_error">"Зададения от Вас час е по-рано от текущото време."</string>
+	<!---->
+	<string name="note_reminder">"Напомняне за бележка"</string>
+	<!---->
+	<string name="save_empty">"Бележката е празна. Моля, въведете съдържание."</string>
+	<!---->
+	<string name="stack">"Натрупване"</string>
+	<!---->
+	<string name="widget_note_empty">"Кликнете, за да започнете да редактирате"</string>
+	<!---->
+	<string name="loading">"Зареждане\u2026"</string>
+	<!---->
+	<string name="insert_sd_card">"Поставете SD карта"</string>
+	<!---->
+	<string name="selected">"%s избрани"</string>
+	<!---->
+	<string name="note_notify_text">"Изберете, за да отмените или потвърдите това напомняне."</string>
+	<!---->
+	<string name="guest_mode_creat">"Не се разрешава да създадете бележка под режим Гост."</string>
+	<!---->
+	<string name="guest_mode_view">"Нямате право да преглеждате бележката под режим гости."</string>
+	<!---->
+	<string name="guest_mode_search">"Нямате право да търсите бележки под режим гости."</string>
+	<!---->
+	<string name="homekey_save">"Бележката е запазена!"</string>
+	<!---->
+	<string name="search_title">"Резултати от търсене"</string>
+	<!---->
+	<string name="edit_add">"Доб.нова бел."</string>
+	<!---->
+	<string name="color_white">"Бяло"</string>
+	<!---->
+	<string name="color_blue">"Син"</string>
+	<!---->
+	<string name="color_green">"Зелен"</string>
+	<!---->
+	<string name="color_yellow">"Жълт"</string>
+	<!---->
+	<string name="color_red">"Червен"</string>
+	<!---->
+	<string name="color_purple">"Пурпурен"</string>
+	<!---->
+	<string name="color_black">"Черно"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Мястото в устройствата е недостатъчно. Моля, освободете място и опитайте отново."</string>
+	<!---->
+	<string name="record_error">"Моля спрете записването на звук и опитайте отново."</string>
+	<!---->
+	<string name="toast_loadPicture">"Неуспешно зареждане на изображение."</string>
+	<!---->
+	<string name="record_max_time">"Максималното време е изчерпано, а записът е съхранен."</string>
+	<!---->
+	<string name="start_record">"Докоснете, за да запишете"</string>
+	<!---->
+	<string name="speek_record">"Говорете сега"</string>
+	<!---->
+	<string name="record_incall">"Не може да направите запис по време на обаждане."</string>
+	<!---->
+	<string name="playrecord_incall">"По време на повикване, не може да възпроизвеждате запис."</string>
+	<!---->
+	<string name="recording">"Записи"</string>
+	<!---->
+	<string name="pause_record">"Докоснете за пауза"</string>
+	<!---->
+	<string name="continue_record">"Докоснете за продължение"</string>
+	<!---->
+	<string name="save_diarecord">"Запази"</string>
+	<!---->
+	<string name="discard_record">"Отхвърляне"</string>
+	<!---->
+	<string name="no_file">"Няма файл"</string>
+	<!---->
+	<string name="btn_dismiss">"Откажи"</string>
+	<!---->
+	<string name="remove_pic">"Изтриване на снимката?"</string>
+	<!---->
+	<string name="btn_remove">"Изтриване"</string>
+	<!---->
+	<string name="deleting">"Изтриване..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"За запис на гласови бележки дайте разрешение за бележки за достъп до микрофон."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"За запис на гласови бележки дайте разрешение за бележки за достъп до място за съхранение."</string>
+	<!---->
+	<string name="camera_permiss_lable">"За правене на снимки дайте разрешение за бележки за достъп до място за съхранение."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"За възпроизвеждане на записи дайте разрешение за бележки за достъп до място за съхранение."</string>
+	<!---->
+	<string name="btn_permiss">"Настройки"</string>
+
+	<string name="main_push_about">Относно</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
+	<string name="main_update_later">Актуализиране по-късно</string>
+	<string name="new_updates">Нови актуализации</string>
+	<string name="personal_data">ID на устройство, Информация за местоположение, Androidid, ID на приложение, Времево клеймо и т.н.</string>
+	<string name="update_now">Актуализиране сега</string>
+</resources>

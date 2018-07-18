@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="hight_each_line">31</integer>
+    <integer name="line_space_add">55</integer>
+    <integer name="line_space_mul">10</integer>
+    <integer name="edit_text_size">22</integer>    
+    
+    <integer name="image_height">102</integer> 
+    <integer name="image_width">160</integer> 
+</resources>

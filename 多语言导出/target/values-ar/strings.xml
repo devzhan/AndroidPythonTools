@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Dec 05 13:55:06 CST 2014
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!--[BUGFIX]-Mod by TCTNB.bo.xu,11/13/2013,PR-550430,  [Notes]The app's name should be "Notes" according to App list-->
+	<string name="app_name">"ملاحظات"</string>
+	<!--[BUGFIX]-Mod by TCTNB.bo.xu,12/17/2013,PR-558777,  [Notes]In notes, some places do not match with ergo-->
+	<string name="add_note">"إضافة ملاحظة"</string>
+	<!--Type:string Purpose:mobile tips in Note
+when first open Note,the tips will show.
+help add Note ScreenPath:Launcher->Note-->
+	<string name="help_promt">"المس هذا الزر من أجل \n إنشاء مذكرتك أولاً."</string>
+	<!---->
+	<string name="sort_by_time">"فرز حسب الوقت"</string>
+	<!---->
+	<string name="sort_by_color">"فرز حسب اللون"</string>
+	<!---->
+	<string name="camera">"الكاميرا"</string>
+	<!--Type:string Purpose:give user a prompt when click the detail item ScreenPath:Launcher > JrdGallery > picture > detail-->
+	<string name="album">"ألبوم"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note->add reminder-->
+	<string name="record">"تسجيل"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note->add reminder-->
+	<string name="reminder">"تذكير"</string>
+	<!--Type:string Purpose:the reminder in Note ,for set reminder time when we add a note with reminder item ScreenPath:Launcher->Note-->
+	<string name="set_reminder">"اضبط وقت التذكير."</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note-->
+	<string name="delete_item">"حذفه؟"</string>
+	<!---->
+	<string name="btn_ok">"موافق"</string>
+	<!---->
+	<string name="btn_cancel">"إلغاء"</string>
+	<!-- no translation found for save_record -->
+	<skip />
+	<!-- no translation found for delete_menu_title -->
+	<skip />
+	<!-- no translation found for delete_these_item_title -->
+	<skip />
+	<!--PR817453 display wrong.Modified by hz_nanbing.zou at 24/10/2014 begin-->
+	<string name="delete_this_item_title">"هل تريد حذف هذه المذكرة بالفعل؟"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note-->
+	<string name="add_limit">"تم بلوغ الحد الأقصى للطول!"</string>
+	<!--PR821313 edit too long will fore close.Add by hz_nanbing.zou at 28/10/2014 begin-->
+	<string name="search_hint">"البحث في المذكرات"</string>
+	<!---->
+	<string name="search_label">"بحث"</string>
+	<!---->
+	<string name="no_note_exist">"لا توجد مذكرات"</string>
+	<!---->
+	<string name="no_search_result">"لا توجد نتائج بحث"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="reminder_error">"الوقت الذي تم ضبطه يسبق الوقت الحالي."</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="note_reminder">"تذكير بالمذكرة"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches
+ ScreenPath:Launcher->Note-->
+	<string name="save_empty">"المذكرة فارغة. يرجى إدخال المحتوى."</string>
+	<!---->
+	<string name="stack">"تكديس"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="widget_note_empty">"انقر لبدء التحرير"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="loading">"تحميل\u2026"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches
+ ScreenPath:Launcher->Note-->
+	<string name="insert_sd_card">"أدخل بطاقة SD"</string>
+	<!--[BUGFIX]-ADD-END by wenlu.wu,11/26/2013,PR-558068 [BUGFIX]-ADD-BEGIN by wenlu.wu,12/17/2013,PR-573171-->
+	<string name="selected">"تم تحديد %s"</string>
+	<!-- no translation found for note_notify_text -->
+	<skip />
+
+	<string name="main_push_about">معلومات عنا</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
+	<string name="main_update_later">التحديث لاحقًا</string>
+	<string name="new_updates">تحديثات جديدة</string>
+	<string name="personal_data">مُعرف الجهاز، معلومات الموقع، نظام التشغيل Androidid، مُعرف التطبيق، الطابع الزمني، وما إلى ذلك.</string>
+	<string name="update_now">تحديث الان</string>
+</resources>

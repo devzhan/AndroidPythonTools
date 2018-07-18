@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"פתקים"</string>
+	<!---->
+	<string name="add_note">"הוסף הערה"</string>
+	<!---->
+	<string name="help_promt">"לחץ על כפתור זה כדי\nליצור את ההערה הראשונה."</string>
+	<!---->
+	<string name="sort_by_time">"לפי הזמן"</string>
+	<!---->
+	<string name="sort_by_color">"מיון לפי צבע"</string>
+	<!---->
+	<string name="camera">"מצלמה"</string>
+	<!---->
+	<string name="album">"גלריה"</string>
+	<!---->
+	<string name="record">"הקלט"</string>
+	<!---->
+	<string name="reminder">"תזכורת"</string>
+	<!-- no translation found for attachments -->
+	<skip />
+	<!---->
+	<string name="colours">"צבעים"</string>
+	<!---->
+	<string name="set_reminder">"קבע את זמן התזכורת."</string>
+	<!---->
+	<string name="delete_item">"למחוק?"</string>
+	<!---->
+	<string name="btn_ok">"אישור"</string>
+	<!---->
+	<string name="btn_view">"הצג"</string>
+	<!---->
+	<string name="btn_cancel">"ביטול"</string>
+	<!-- no translation found for save_record -->
+	<skip />
+	<!---->
+	<string name="delete_menu_title">"מחק"</string>
+	<!-- no translation found for delete_these_item_title -->
+	<skip />
+	<!---->
+	<string name="delete_all">"האם למחוק את כל הפתקים?"</string>
+	<!---->
+	<string name="delete_this_item_title">"האם אתה בטוח שברצונך למחוק את ההערה?"</string>
+	<!-- no translation found for delete_this_color_item_title -->
+	<skip />
+	<!-- no translation found for delete_these_color_item_title -->
+	<skip />
+	<!---->
+	<string name="add_limit">"הגעת לאורך המרבי!"</string>
+	<!---->
+	<string name="search_hint">"חיפוש הערה"</string>
+	<!---->
+	<string name="search_label">"חפש"</string>
+	<!---->
+	<string name="sort">"מיין"</string>
+	<!---->
+	<string name="no_note_exist">"אין הערות"</string>
+	<!---->
+	<string name="no_search_result">"אין תוצאות חיפוש"</string>
+	<!---->
+	<string name="reminder_error">"הזמן שקבעת הוא מוקדם מהשעה הנוכחית."</string>
+	<!---->
+	<string name="note_reminder">"תיזכורת הערה"</string>
+	<!---->
+	<string name="save_empty">"ההערה ריקה. אנא הכנס תוכן."</string>
+	<!---->
+	<string name="stack">"ערימה"</string>
+	<!---->
+	<string name="widget_note_empty">"יש להקיש לעריכה"</string>
+	<!---->
+	<string name="loading">"טוען…"</string>
+	<!---->
+	<string name="insert_sd_card">"הכנס כרטיס SD"</string>
+	<!---->
+	<string name="selected">"%s נבחר"</string>
+	<!-- no translation found for note_notify_text -->
+	<skip />
+	<!---->
+	<string name="guest_mode_creat">"אינך מורשה ליצור הערה במצב אורח."</string>
+	<!-- no translation found for guest_mode_view -->
+	<skip />
+	<!-- no translation found for guest_mode_search -->
+	<skip />
+	<!-- no translation found for homekey_save -->
+	<skip />
+	<!---->
+	<string name="search_title">"Αποτέλεσμα αναζήτησης"</string>
+	<!-- no translation found for edit_add -->
+	<skip />
+	<!---->
+	<string name="color_white">"לבן"</string>
+	<!---->
+	<string name="color_blue">"כחול"</string>
+	<!---->
+	<string name="color_green">"ירוק"</string>
+	<!---->
+	<string name="color_yellow">"צהוב"</string>
+	<!---->
+	<string name="color_red">"אדום"</string>
+	<!---->
+	<string name="color_purple">"סגול"</string>
+	<!---->
+	<string name="color_black">"שחור"</string>
+	<!-- no translation found for msg_devices_no_space -->
+	<skip />
+	<!-- no translation found for record_error -->
+	<skip />
+	<!-- no translation found for toast_loadPicture -->
+	<skip />
+	<!-- no translation found for record_max_time -->
+	<skip />
+	<!-- no translation found for start_record -->
+	<skip />
+	<!-- no translation found for speek_record -->
+	<skip />
+	<!-- no translation found for record_incall -->
+	<skip />
+	<!-- no translation found for playrecord_incall -->
+	<skip />
+	<!---->
+	<string name="recording">"הקלטות"</string>
+	<!-- no translation found for pause_record -->
+	<skip />
+	<!-- no translation found for continue_record -->
+	<skip />
+	<!---->
+	<string name="save_diarecord">"שמור"</string>
+	<!---->
+	<string name="discard_record">"מחק"</string>
+	<!---->
+	<string name="no_file">"אין קובץ"</string>
+	<!---->
+	<string name="btn_dismiss">"שחרר"</string>
+	<!-- no translation found for remove_pic -->
+	<skip />
+	<!---->
+	<string name="btn_remove">"הסר"</string>
+	<!---->
+	<string name="deleting">"מוחק"</string>
+	<!-- no translation found for audio_permiss_lable -->
+	<skip />
+	<!-- no translation found for audio_storage_permiss_lable -->
+	<skip />
+	<!-- no translation found for camera_permiss_lable -->
+	<skip />
+	<!-- no translation found for playaudio_permiss_lable -->
+	<skip />
+	<!---->
+	<string name="btn_permiss">"הגדרות"</string>
+	<!---->
+	<string name="main_push_about">אודות</string>
+</resources>

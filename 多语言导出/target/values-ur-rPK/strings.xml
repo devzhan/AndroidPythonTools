@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"نوٹس"</string>
+	<!---->
+	<string name="add_note">"نوٹ شامل کریں"</string>
+	<!---->
+	<string name="help_promt">"اپنا پہلا نوٹ بنانے کے لئے \n اس بٹن کو چھوئیں."</string>
+	<!---->
+	<string name="sort_by_time">"بلحاظ وقت چھانٹیں"</string>
+	<!---->
+	<string name="sort_by_color">"رنگ کے مطابق ترتیب دیں"</string>
+	<!---->
+	<string name="camera">"کیمرہ"</string>
+	<!---->
+	<string name="album">"گیلری"</string>
+	<!---->
+	<string name="record">"ریکارڈ کریں"</string>
+	<!---->
+	<string name="reminder">"یاددہانی"</string>
+	<!---->
+	<string name="attachments">"انسلاکات"</string>
+	<!---->
+	<string name="colours">"رنگ"</string>
+	<!---->
+	<string name="set_reminder">"یاددہانی کا وقت مقرر کریں."</string>
+	<!---->
+	<string name="delete_item">"تصویر ہٹائیں؟"</string>
+	<!---->
+	<string name="btn_ok">"ٹھیک ہے"</string>
+	<!---->
+	<string name="btn_view">"دیکھیں"</string>
+	<!---->
+	<string name="btn_cancel">"منسوخ کریں"</string>
+	<!---->
+	<string name="save_record">"ریکارڈ محفوظ کیا گیا."</string>
+	<!---->
+	<string name="delete_menu_title">"حذف کریں"</string>
+	<!---->
+	<string name="delete_these_item_title">"ان نوٹس کو حذف کریں؟"</string>
+	<!---->
+	<string name="delete_all">"تمام نوٹس حذف کریں؟"</string>
+	<!---->
+	<string name="delete_this_item_title">"کیا آپ اس نوٹ کو حذف کرنا چاہتے ہیں؟"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"رنگ کے اس فولڈر کو حذف کریں؟"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"رنگوں کے ان فولڈرز کو حذف کریں؟"</string>
+	<!---->
+	<string name="add_limit">"زیادہ سے زیادہ طوالت تک پہنچ گیا!"</string>
+	<!---->
+	<string name="search_hint">"نوٹس تلاش کریں"</string>
+	<!---->
+	<string name="search_label">"تلاش کریں"</string>
+	<!---->
+	<string name="sort">"ترتیب دیں"</string>
+	<!---->
+	<string name="no_note_exist">"کوئی نوٹ نہیں"</string>
+	<!---->
+	<string name="no_search_result">"کوئی نوٹ نہیں ملا."</string>
+	<!---->
+	<string name="reminder_error">"اپنے جو وقت مقرر کیا ہے ماضی کا ہے."</string>
+	<!---->
+	<string name="note_reminder">"نوٹ یاددہانی"</string>
+	<!---->
+	<string name="save_empty">"نوٹ خالی ہے. براہ کرم مشمول ان پٹ کریں."</string>
+	<!---->
+	<string name="stack">"اسٹیک"</string>
+	<!---->
+	<string name="widget_note_empty">"ترمیم کی شروعات کرنے کے لئے کلک کریں"</string>
+	<!---->
+	<string name="loading">"لوڈنگ\u2026"</string>
+	<!---->
+	<string name="insert_sd_card">"SD کارڈ داخل کریں"</string>
+	<!---->
+	<string name="selected">"%s منتخب کردہ"</string>
+	<!---->
+	<string name="note_notify_text">"اس یاددہانی کو منسوخ کرنے یا اسکی تصدیق کرنے کے لئے منتخب کریں."</string>
+	<!---->
+	<string name="guest_mode_creat">"آپ کو مہمان وضع کے تحت رابطہ تخلیق کرنے کی اجازت نہیں ہے۔"</string>
+	<!---->
+	<string name="guest_mode_view">"آپ کو مہمان وضع کے تحت نوٹ دیکھنے کی اجازت نہیں ہے."</string>
+	<!---->
+	<string name="guest_mode_search">"آپ کو مہمان وضع کے تحت نوٹ تلاش کرنے کی اجازت نہیں ہے."</string>
+	<!---->
+	<string name="homekey_save">"نوٹ محفوظ کردہ!"</string>
+	<!---->
+	<string name="search_title">"تلاش کا نتیجہ"</string>
+	<!---->
+	<string name="edit_add">"نیا نوٹ شامل کریں"</string>
+	<!---->
+	<string name="color_white">"سفید"</string>
+	<!---->
+	<string name="color_blue">"نیلا"</string>
+	<!---->
+	<string name="color_green">"سبز"</string>
+	<!---->
+	<string name="color_yellow">"پیلا"</string>
+	<!---->
+	<string name="color_red">"سرخ"</string>
+	<!---->
+	<string name="color_purple">"جامنی"</string>
+	<!---->
+	<string name="color_black">"سیاہ"</string>
+	<!---->
+	<string name="msg_devices_no_space">"ڈیوائسز پر ناکافی جگہ. کچھ جگہ خالی کریں اور دوبارہ کوشش کریں."</string>
+	<!---->
+	<string name="record_error">"براہ کرم ساؤنڈ ریکارڈر روکیں اور دوبارہ کوشش کریں."</string>
+	<!---->
+	<string name="toast_loadPicture">"تصویر لوڈ کرنا ناکام."</string>
+	<!---->
+	<string name="record_max_time">"زیادہ سے زیادہ لمبائی پہنچ گئی. ریکارڈ محفوظ کیا گیا."</string>
+	<!---->
+	<string name="start_record">"ریکارڈ کرنے کے لئے چھوئیں"</string>
+	<!---->
+	<string name="speek_record">"اب بولیں"</string>
+	<!---->
+	<string name="record_incall">"کال پیش رفت، ریکارڈ نہیں کر سکتا."</string>
+	<!---->
+	<string name="playrecord_incall">"کال پیش رفت، ریکارڈ پلے نہیں کر سکتا."</string>
+	<!---->
+	<string name="recording">"ریکارڈنگ"</string>
+	<!---->
+	<string name="pause_record">"توقف کے لئے چھوئیں"</string>
+	<!---->
+	<string name="continue_record">"دوبارہ شروع کرنے کے لئے چھوئیں"</string>
+	<!---->
+	<string name="save_diarecord">"محفوظ کریں"</string>
+	<!---->
+	<string name="discard_record">"مسترد کریں"</string>
+	<!---->
+	<string name="no_file">"کوئی فائل نہیں"</string>
+	<!---->
+	<string name="btn_dismiss">"برخاست کریں"</string>
+	<!---->
+	<string name="remove_pic">"تصویر ہٹائیں؟"</string>
+	<!---->
+	<string name="btn_remove">"ہٹائيں"</string>
+	<!---->
+	<string name="deleting">"حذف کیا جارہا ہے..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"وائس نوٹس ریکارڈ کرنے کے لیے، مائیکروفون تک رسائی کے لیے ملی ہوئی اجازت دیں۔"</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"وائس نوٹس ریکارڈ کرنے کے لیے، اسٹوریج تک رسائی کے لیے ملی ہوئی اجازت دیں۔"</string>
+	<!---->
+	<string name="camera_permiss_lable">"تصاویر لینے کے لیے، نوٹس کو اسٹوریج تک رسائی کی اجازت دیں۔"</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"ریکارڈنگ پلے کرنے کے لیے، نوٹس کو اسٹوریج تک رسائی کی اجازت دیں۔"</string>
+	<!---->
+	<string name="btn_permiss">"ترتیبات"</string>
+
+	<string name="main_push_about">"کے بارے میں"</string>
+</resources>

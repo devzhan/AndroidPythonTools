@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Notater"</string>
+	<!---->
+	<string name="add_note">"Legg til notat"</string>
+	<!---->
+	<string name="help_promt">"Trykk på denne knappen for \n å opprette ditt første notat."</string>
+	<!---->
+	<string name="sort_by_time">"Sorter etter tidspunkt"</string>
+	<!---->
+	<string name="sort_by_color">"Sorter etter farge"</string>
+	<!---->
+	<string name="camera">"Kamera"</string>
+	<!---->
+	<string name="album">"Galleri"</string>
+	<!---->
+	<string name="record">"Spill inn"</string>
+	<!---->
+	<string name="reminder">"Påminnelse"</string>
+	<!---->
+	<string name="attachments">"Vedlegg"</string>
+	<!---->
+	<string name="colours">"Farger"</string>
+	<!---->
+	<string name="set_reminder">"Angi påminnelsestid."</string>
+	<!---->
+	<string name="delete_item">"Slette?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Vis"</string>
+	<!---->
+	<string name="btn_cancel">"Avbryt"</string>
+	<!---->
+	<string name="save_record">"Innspillingen er lagret."</string>
+	<!---->
+	<string name="delete_menu_title">"slett"</string>
+	<!---->
+	<string name="delete_these_item_title">"Slette disse notatene?"</string>
+	<!---->
+	<string name="delete_all">"Slette alle notater?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Er du sikker på at du vil slette dette notatet?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Slette denne fargemappen?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Slette disse fargemappene?"</string>
+	<!---->
+	<string name="add_limit">"Makslengden er nådd."</string>
+	<!---->
+	<string name="search_hint">"Søk i notater"</string>
+	<!---->
+	<string name="search_label">"Søk"</string>
+	<!---->
+	<string name="sort">"Sorter"</string>
+	<!---->
+	<string name="no_note_exist">"Ingen notater"</string>
+	<!---->
+	<string name="no_search_result">"Ingen treff"</string>
+	<!---->
+	<string name="reminder_error">"Tidspunktet du anga, er før gjeldende tidspunkt."</string>
+	<!---->
+	<string name="note_reminder">"Notatpåminnelse"</string>
+	<!---->
+	<string name="save_empty">"Notatet er tomt. Legg inn innhold."</string>
+	<!---->
+	<string name="stack">"Stabel"</string>
+	<!---->
+	<string name="widget_note_empty">"Klikk for å starte redigering"</string>
+	<!---->
+	<string name="loading">"henter…"</string>
+	<!---->
+	<string name="insert_sd_card">"Sett inn et SD-kort"</string>
+	<!---->
+	<string name="selected">"%s valgt"</string>
+	<!---->
+	<string name="note_notify_text">"Avbryt eller bekreft denne påminnelsen."</string>
+	<!---->
+	<string name="guest_mode_creat">"Du har ikke tillatelse til å opprette et notat i gjestemodus."</string>
+	<!---->
+	<string name="guest_mode_view">"Du har ikke tillatelse til å vise notatet i gjestemodus."</string>
+	<!---->
+	<string name="guest_mode_search">"Du har ikke tillatelse til å søke i notater i gjestemodus."</string>
+	<!---->
+	<string name="homekey_save">"Notat lagret."</string>
+	<!---->
+	<string name="search_title">"Søkeresultater"</string>
+	<!---->
+	<string name="edit_add">"Legg til nytt notat"</string>
+	<!---->
+	<string name="color_white">"Hvit"</string>
+	<!---->
+	<string name="color_blue">"Blå"</string>
+	<!---->
+	<string name="color_green">"Grønn"</string>
+	<!---->
+	<string name="color_yellow">"Gul"</string>
+	<!---->
+	<string name="color_red">"Rød"</string>
+	<!---->
+	<string name="color_purple">"Lilla"</string>
+	<!---->
+	<string name="color_black">"Svart"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Ikke nok plass på enheten. Frigjør plass og prøv på nytt."</string>
+	<!---->
+	<string name="record_error">"Stopp lydopptaker og prøv på nytt."</string>
+	<!---->
+	<string name="toast_loadPicture">"Feil ved innlasting av bilde."</string>
+	<!---->
+	<string name="record_max_time">"Maks. tid nådd, og oppføringen er lagret"</string>
+	<!---->
+	<string name="start_record">"Trykk for å spille inn"</string>
+	<!---->
+	<string name="speek_record">"Snakk nå"</string>
+	<!---->
+	<string name="record_incall">"Samtale pågår. Kan ikke spille inn."</string>
+	<!---->
+	<string name="playrecord_incall">"Samtale pågår. Kan ikke spille av innspilling."</string>
+	<!---->
+	<string name="recording">"Innspillinger"</string>
+	<!---->
+	<string name="pause_record">"Trykk for å sette på pause"</string>
+	<!---->
+	<string name="continue_record">"Trykk for å fortsette"</string>
+	<!---->
+	<string name="save_diarecord">"Lagre"</string>
+	<!---->
+	<string name="discard_record">"Forkast"</string>
+	<!---->
+	<string name="no_file">"Ingen fil"</string>
+	<!---->
+	<string name="btn_dismiss">"Skjul"</string>
+	<!---->
+	<string name="remove_pic">"Fjerne bildet?"</string>
+	<!---->
+	<string name="btn_remove">"Fjern"</string>
+	<!---->
+	<string name="deleting">"Sletter..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"For å registrere talenotater må du gi Notes tillatelse til å bruke mikrofonen."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"For å registrere talenotater må du gi Notes tillatelse til å bruke lagring."</string>
+	<!---->
+	<string name="camera_permiss_lable">"For å ta bilder må du gi Notes tillatelse til å bruke lagring."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"For å spille av opptak må du gi Notes tillatelse til å bruke lagring."</string>
+	<!---->
+	<string name="btn_permiss">"Innstillinger"</string>
+	<!---->
+	<string name="main_push_about">Om</string>
+</resources>

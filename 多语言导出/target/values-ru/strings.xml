@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Заметки"</string>
+	<!---->
+	<string name="add_note">"Добавить"</string>
+	<!---->
+	<string name="help_promt">"Нажмите эту кнопку, чтобы \n создать свою первую заметку."</string>
+	<!---->
+	<string name="sort_by_time">"Сортировка по дате"</string>
+	<!---->
+	<string name="sort_by_color">"Сортировка по цвету"</string>
+	<!---->
+	<string name="camera">"Камера"</string>
+	<!---->
+	<string name="album">"Галерея"</string>
+	<!---->
+	<string name="record">"Запись"</string>
+	<!---->
+	<string name="reminder">"Напоминание"</string>
+	<!---->
+	<string name="attachments">"Вложения"</string>
+	<!---->
+	<string name="colours">"Цвета"</string>
+	<!---->
+	<string name="set_reminder">"Установите время напоминания."</string>
+	<!---->
+	<string name="delete_item">"Удалить?"</string>
+	<!---->
+	<string name="btn_ok">"ОК"</string>
+	<!---->
+	<string name="btn_view">"Просмотр"</string>
+	<!---->
+	<string name="btn_cancel">"Отмена"</string>
+	<!---->
+	<string name="save_record">"Запись сохранена."</string>
+	<!---->
+	<string name="delete_menu_title">"Удалить"</string>
+	<!---->
+	<string name="delete_these_item_title">"Удалить эти заметки?"</string>
+	<!---->
+	<string name="delete_all">"Удалить все заметки?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Вы действительно хотите удалить эту заметку?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Удалить папку этого цвета?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Удалить папки этого цвета?"</string>
+	<!---->
+	<string name="add_limit">"Достигнут макисмальный размер!"</string>
+	<!---->
+	<string name="search_hint">"Поиск заметок"</string>
+	<!---->
+	<string name="search_label">"Поиск"</string>
+	<!---->
+	<string name="sort">"Сортировать"</string>
+	<!---->
+	<string name="no_note_exist">"Нет заметок"</string>
+	<!---->
+	<string name="no_search_result">"Ничего не найдено."</string>
+	<!---->
+	<string name="reminder_error">"Установите время напоминания в будущем, а не в прошлом."</string>
+	<!---->
+	<string name="note_reminder">"Напоминание из заметки"</string>
+	<!---->
+	<string name="save_empty">"Заметка пустая. Пожалуйста, введите содержание."</string>
+	<!---->
+	<string name="stack">"Стек"</string>
+	<!---->
+	<string name="widget_note_empty">"Нажмите, чтобы создать заметку"</string>
+	<!---->
+	<string name="loading">"Загрузка…"</string>
+	<!---->
+	<string name="insert_sd_card">"Установите SD-карту"</string>
+	<!---->
+	<string name="selected">"Выбрано: %s"</string>
+	<!---->
+	<string name="note_notify_text">"Нажмите для отмены или подтверждения данного напоминания."</string>
+	<!---->
+	<string name="guest_mode_creat">"Вам не разрешается создавать заметки в гостевом режиме."</string>
+	<!---->
+	<string name="guest_mode_view">"Нельзя просматривать заметки в режиме Гостя."</string>
+	<!---->
+	<string name="guest_mode_search">"Нельзя искать заметки в режиме Гостя."</string>
+	<!---->
+	<string name="homekey_save">"Заметка сохранена!"</string>
+	<!---->
+	<string name="search_title">"Результат поиска"</string>
+	<!---->
+	<string name="edit_add">"Новая заметка"</string>
+	<!---->
+	<string name="color_white">"Белый"</string>
+	<!---->
+	<string name="color_blue">"Голубой"</string>
+	<!---->
+	<string name="color_green">"Зеленый"</string>
+	<!---->
+	<string name="color_yellow">"Жёлтый"</string>
+	<!---->
+	<string name="color_red">"Красный"</string>
+	<!---->
+	<string name="color_purple">"Фиолетовый"</string>
+	<!---->
+	<string name="color_black">"Чёрный"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Недостаточно места в памяти устройства. Освободите место и попробуйте ещё раз."</string>
+	<!---->
+	<string name="record_error">"Пожалуйста, остановите запись звука и повторите попытку."</string>
+	<!---->
+	<string name="toast_loadPicture">"Сбой загрузки изображения."</string>
+	<!---->
+	<string name="record_max_time">"Максимальное время достигнуто. Запись сохранена."</string>
+	<!---->
+	<string name="start_record">"Нажмите, чтобы начать запись"</string>
+	<!---->
+	<string name="speek_record">"Говорите"</string>
+	<!---->
+	<string name="record_incall">"Невозможно выполнить запись, так как выполняется голосовой вызов."</string>
+	<!---->
+	<string name="playrecord_incall">"Воспроизведение невозможно, так как выполняется голосовой вызов."</string>
+	<!---->
+	<string name="recording">"Записи"</string>
+	<!---->
+	<string name="pause_record">"Нажмите, чтобы приостановить"</string>
+	<!---->
+	<string name="continue_record">"Нажмите для продолжения"</string>
+	<!---->
+	<string name="save_diarecord">"Сохранить"</string>
+	<!---->
+	<string name="discard_record">"Отключить"</string>
+	<!---->
+	<string name="no_file">"Нет файлов"</string>
+	<!---->
+	<string name="btn_dismiss">"Закрыть"</string>
+	<!---->
+	<string name="remove_pic">"Удалить изображение?"</string>
+	<!---->
+	<string name="btn_remove">"Удалить"</string>
+	<!---->
+	<string name="deleting">"Удаление..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Для записи голосовых заметок разрешите приложению «Заметки» доступ к микрофону."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Для записи голосовых заметок разрешите приложению «Заметки» доступ к памяти."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Чтобы сделать фото, разрешите приложению «Заметки» доступ к памяти."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Для воспроизведения записанного, разрешите приложению «Заметки» доступ к памяти."</string>
+	<!---->
+	<string name="btn_permiss">"Настройки"</string>
+	<!---->
+	<string name="main_push_about">"О приложении"</string>
+	<string name="main_update_later">Обновить позже</string>
+	<string name="new_updates">Новые обновления</string>
+	<string name="personal_data">Идентификатор устройства, Информация о местоположении, Идентификатор Android, Идентификатор приложения, Отметка времени и т. д.</string>
+	<string name="update_now">Обновить сейчас</string>
+	<string name="main_update_later">Обновить позже</string>
+	<string name="new_updates">Новые обновления</string>
+	<string name="personal_data">Идентификатор устройства, Информация о местоположении, Идентификатор Android, Идентификатор приложения, Отметка времени и т. д.</string>
+	<string name="update_now">Обновить сейчас</string>
+	<string name="main_update_later">Обновить позже</string>
+	<string name="new_updates">Новые обновления</string>
+	<string name="personal_data">Идентификатор устройства, Информация о местоположении, Идентификатор Android, Идентификатор приложения, Отметка времени и т. д.</string>
+	<string name="update_now">Обновить сейчас</string>
+	<string name="main_update_later">Обновить позже</string>
+	<string name="new_updates">Новые обновления</string>
+	<string name="personal_data">Идентификатор устройства, Информация о местоположении, Идентификатор Android, Идентификатор приложения, Отметка времени и т. д.</string>
+	<string name="update_now">Обновить сейчас</string>
+	<string name="main_update_later">Обновить позже</string>
+	<string name="new_updates">Новые обновления</string>
+	<string name="personal_data">Идентификатор устройства, Информация о местоположении, Идентификатор Android, Идентификатор приложения, Отметка времени и т. д.</string>
+	<string name="update_now">Обновить сейчас</string>
+	<string name="main_update_later">Обновить позже</string>
+	<string name="new_updates">Новые обновления</string>
+	<string name="personal_data">Идентификатор устройства, Информация о местоположении, Идентификатор Android, Идентификатор приложения, Отметка времени и т. д.</string>
+	<string name="update_now">Обновить сейчас</string>
+	<string name="main_update_later">Обновить позже</string>
+	<string name="new_updates">Новые обновления</string>
+	<string name="personal_data">Идентификатор устройства, Информация о местоположении, Идентификатор Android, Идентификатор приложения, Отметка времени и т. д.</string>
+	<string name="update_now">Обновить сейчас</string>
+</resources>

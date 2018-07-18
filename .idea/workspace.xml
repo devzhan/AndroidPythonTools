@@ -2,51 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ff3031-ffb3-41c5-89b8-f288b3eaed7e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AndroidPythonTools.iml" afterPath="$PROJECT_DIR$/.idea/AndroidPythonTools.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-ar/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-bg/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-ca/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-cs/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-da/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-de/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-el/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-es/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-et/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-eu/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-fa/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-fi/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rCA/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-fr-rCA/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-fr/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-gl/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-hr/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-hu/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-in/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-it/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-ja/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-ko/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-mk/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-ms/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-nl/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-pl/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rBR/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-pt-rBR/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-pt/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-ro/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-ru/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-sk/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-sl/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-sq/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-sr/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-sv/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-th/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-tr/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-uk/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-vi/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rHK/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-zh-rHK/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/strings.xml" afterPath="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/strings.xml" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/AutoStringToExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/dimensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/dimensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/dimensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/dimensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AndroidPythonTools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AndroidPythonTools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,67 +36,88 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoImportString.coverage" NAME="AutoImportString Coverage Results" MODIFIED="1531640283794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导入" />
+    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoStringToExcel.coverage" NAME="AutoStringToExcel Coverage Results" MODIFIED="1531918339090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导出" />
+    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoImportString.coverage" NAME="AutoImportString Coverage Results" MODIFIED="1531807029144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导入" />
+    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoExcelToString.coverage" NAME="AutoExcelToString Coverage Results" MODIFIED="1531882765510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导入" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="AutoStringToExcel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/多语言导出/AutoStringToExcel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="13" />
+              <folding>
+                <element signature="e#39#50#0" expanded="true" />
+              </folding>
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutoImportString.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AutoExcelToString.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多语言导入/AutoExcelToString.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" selection-start-line="11" selection-end-line="68" selection-end-column="1" />
+              <folding>
+                <element signature="e#40#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/formats/style.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="892" column="8" selection-start-line="892" selection-start-column="8" selection-end-line="892" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rTW/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-765" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoImportString.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2145">
-              <caret line="143" column="51" lean-forward="false" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多语言导入/target/values-da/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2445">
-              <caret line="163" column="87" lean-forward="false" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
-              <folding />
+            <state relative-caret-position="782">
+              <caret line="46" column="42" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>English_US</find>
+      <find>/</find>
+      <find>English</find>
+      <find>巴基斯坦</find>
+      <find>parse_excel</find>
+      <find>print</find>
+      <find>file_dict</find>
+      <find>RPK</find>
+      <find>gl</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+      <replace>parse_xml</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,7 +125,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml" />
+        <option value="$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml" />
+        <option value="$PROJECT_DIR$/多语言导入/AutoImportString.py" />
+        <option value="$PROJECT_DIR$/多语言导入/AutoExcelToString.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/多语言导出/AutoExcelToString.py" />
+        <option value="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/update_strings.xml" />
+        <option value="$PROJECT_DIR$/多语言导出/AutoStringToExcel.py" />
       </list>
     </option>
   </component>
@@ -137,27 +145,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="678" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,6 +167,17 @@
               <item name="AndroidPythonTools" type="b2602c69:ProjectViewProjectNode" />
               <item name="AndroidPythonTools" type="462c0819:PsiDirectoryNode" />
               <item name="多语言导入" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidPythonTools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidPythonTools" type="462c0819:PsiDirectoryNode" />
+              <item name="多语言导出" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidPythonTools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidPythonTools" type="462c0819:PsiDirectoryNode" />
+              <item name="多语言导出" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,6 +194,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\AndroidPythonTools\多语言导出\target" />
+      <recent name="D:\python\AndroidPythonTools\多语言导出" />
       <recent name="D:\python\AndroidPythonTools\多语言导入" />
     </key>
   </component>
@@ -201,8 +211,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="AutoImportString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.AutoStringToExcel">
+    <configuration name="AutoExcelToString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AndroidPythonTools" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,22 +224,63 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多语言导入/AutoExcelToString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="AutoImportString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AndroidPythonTools" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多语言导入" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多语言导入/AutoImportString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="AutoStringToExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AndroidPythonTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多语言导出" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多语言导出/AutoStringToExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.AutoImportString" />
+      <item itemvalue="Python.AutoExcelToString" />
+      <item itemvalue="Python.AutoStringToExcel" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.AutoImportString" />
+      <list>
+        <item itemvalue="Python.AutoStringToExcel" />
+        <item itemvalue="Python.AutoExcelToString" />
+        <item itemvalue="Python.AutoImportString" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -244,30 +296,55 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="678" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16932908" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16773163" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -276,104 +353,271 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/多语言导出/AutoStringToExcel.py</url>
+          <line>168</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-chine_hk/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-da/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rTW/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-da/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-          <folding />
+          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2145">
-          <caret line="143" column="51" lean-forward="false" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-          <folding />
+          <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/多语言导入/target/values-da/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2445">
-          <caret line="163" column="87" lean-forward="false" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="51" lean-forward="false" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多语言导入/target/values-da/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2445">
-          <caret line="163" column="87" lean-forward="false" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
-          <folding />
+        <state relative-caret-position="2771">
+          <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1389958170/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="211" column="4" selection-start-line="211" selection-start-column="4" selection-end-line="211" selection-end-column="4" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/1/q" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/1/1" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/1/2" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="2318" column="8" selection-start-line="2318" selection-start-column="8" selection-end-line="2318" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-vi/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-ar/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-bg/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-chine_hk/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-da/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rTW/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-cs/update_strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python/Lib/xml/dom/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/string.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://D:/Program Files/Python/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="552" column="23" selection-start-line="552" selection-start-column="23" selection-end-line="552" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/target/values/arrays.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-ar/update_strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="144" column="12" selection-start-line="144" selection-end-line="144" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rHK/update_strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rTW/update_strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-ca/string.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="66" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3692">
+          <caret line="3910" column="8" selection-start-line="3910" selection-start-column="8" selection-end-line="3910" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-ja/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rHK/string.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/formats/style.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="892" column="8" selection-start-line="892" selection-start-column="8" selection-end-line="892" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rTW/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="782">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/AutoExcelToString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <element signature="e#40#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/AutoStringToExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#39#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

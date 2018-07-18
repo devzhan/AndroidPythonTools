@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (c) 2012, Code Aurora Forum. All rights reserved.
+     Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+    <style name="NoteListTheme" parent="android:Theme.Holo">
+        <item name="android:actionBarStyle">@style/NoteListActionBarStyle</item>
+        <item name="android:windowBackground">@drawable/note_action_bar_bg</item>
+        <item name="android:actionModeBackground">@drawable/note_action_bar_bg</item>
+        <item name="android:actionModeSplitBackground">@drawable/note_action_bar_bg</item>
+    </style>
+
+    <style name="NoteListActionBarStyle" parent="android:Widget.Holo.ActionBar">
+    </style>
+
+    <style name="customCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+    </style>
+    -->
+
+    <style name="Dialog_Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Dialog_Anim</item>
+        <item name="android:colorBackgroundCacheHint">@color/text_white</item>
+    </style>
+
+    <style name="Dialog_Anim">
+        <item name="android:windowEnterAnimation">@anim/fading_in</item>
+        <item name="android:windowExitAnimation">@anim/fading_out</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_Spinner" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FF333333</item>
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_marginLeft">12dp</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_SpinnerButton" parent="TextAppearance.EditEvent_Spinner">
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+    </style>
+
+    <style name="NoteHoloTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/actionbar_color</item>
+        <item name="colorPrimaryDark">@color/statuebar_color</item>
+        <item name="android:actionBarWidgetTheme">@style/NoteActionBarTheme</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        
+        <!--PR926704.note select mode: action bar font color is wrong.Added by hz_nanbing.zou at 02/09/2015 begin-->
+        <item name="android:actionModeBackground">@color/actionbar_color</item>
+        <!--PR926704.note select mode: action bar font color is wrong.Added by hz_nanbing.zou at 02/09/2015 end-->
+        
+        
+        <item name="android:actionModeCloseDrawable">@drawable/ic_ab_clear_white_24dp</item>
+        
+        <!--For check list  -->
+        <!-- <item name="android:selectableItemBackground">@drawable/menuselect</item> -->
+        
+        <item name="android:textColorHighlight">@color/theme_bg_yellow</item>
+        
+        <!--PR891489.Selection backgroud not good.Added by hz_nanbing.zou at 06/01/2015 begin  -->
+        <item name="android:actionBarTheme">@style/choicemode</item>
+        <!--PR891489.Selection backgroud not good.Added by hz_nanbing.zou at 06/01/2015 end  -->
+        
+        <!--PR888027 The first time enter Notes,flash black screen.Added by hz_nanbing.zou at29/12/2014 begin -->
+        <!-- <item name="android:windowIsTranslucent">true</item> -->
+        <!--PR888027 The first time enter Notes,flash black screen.Added by hz_nanbing.zou at29/12/2014 end -->
+        
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        
+    </style>
+
+    <style name="NoteActionBarTheme" parent="@android:style/Theme.Holo">
+        <item name="android:textColorHint">#ffffff</item>
+        <!-- <item name="android:actionBarStyle">@style/MyActionBar</item> -->
+    </style>
+
+    <!-- style for the action bar backgrounds -->
+    <style name="MyActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background">@color/actionbar_color</item>
+        <item name="android:backgroundStacked">@color/actionbar_color</item>
+        <item name="android:backgroundSplit">@color/actionbar_color</item>
+        <item name="android:actionModeBackground">@color/actionbar_color</item>
+        
+        <item name="android:elevation">2dp</item>
+        
+    </style>
+
+    <!-- FR789597 modified the code for standalone APK development by bing.wang.hz 2014.09.15 begin -->
+    <style name="myScrollView">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+    </style>
+
+    <style name="widgetEditText" parent="@android:style/Widget.Holo.EditText"></style>
+    <!-- FR789597 modified the code for standalone APK development by bing.wang.hz 2014.09.15 end -->
+
+
+    <!-- PR854590 Reminder dialog ugly.Added by hz_nanbing.zou at 27/11/2014 begin -->
+    <style name="myDialog" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+    </style>
+    <!-- PR854590 Reminder dialog ugly.Added by hz_nanbing.zou at 27/11/2014 end -->
+
+    <style name="mysatus" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/actionbar_color</item>
+        <item name="colorPrimaryDark">@color/statuebar_color</item>
+        
+        <!--For check list  -->
+        <!-- <item name="android:selectableItemBackground">@drawable/menuselect</item> -->
+
+        <item name="android:actionBarStyle">@style/actionBarstyle</item>
+        
+    </style>
+
+    <style name="buttonstatu" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorControlHighlight">@color/actionbar_color</item>
+        <item name="android:colorAccent">@color/actionbar_color</item>
+    </style>
+
+    <!--PR891489.Selection backgroud not good.Added by hz_nanbing.zou at 06/01/2015 begin  -->
+    <style name="choicemode" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar">
+        <item name="android:colorBackground">@color/actionbar_color</item>
+    </style>
+    <!--PR891489.Selection backgroud not good.Added by hz_nanbing.zou at 06/01/2015 end  -->
+    
+    <style name="textdropdown" parent="@android:style/Widget.Holo.Light.Spinner">
+    </style>
+    
+    <!--PR915668.Locked screen,reminder dialog not show.Added by hz_nanbing.zou at 28/01/2015 begin-->
+    <style name="reminderActivitytheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <!--PR915668.Locked screen,reminder dialog not show.Added by hz_nanbing.zou at 28/01/2015 end-->
+    <!-- modify by mingyue.wang for pr947896 begin -->
+    <style name="actionBarstyle" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+	<item name="android:contentInsetStart">4dp</item>
+	<item name="android:titleTextStyle">@style/actionBar_titleStyle</item>
+	<item name="android:elevation">2dp</item>
+    </style>
+    
+      <style name="actionBar_titleStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <!-- modify by mingyue.wang for pr947896 end -->
+
+    <style name="StateListImageButton">
+        <item name="android:layout_width">38dp</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:scaleType">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Ghi chú"</string>
+	<!---->
+	<string name="add_note">"Thêm ghi chú"</string>
+	<!---->
+	<string name="help_promt">"Chạm nút này để \n tạo ghi chú đầu tiên của bạn."</string>
+	<!---->
+	<string name="sort_by_time">"Sắp xếp theo thời gian"</string>
+	<!---->
+	<string name="sort_by_color">"Sắp xếp theo màu sắc"</string>
+	<!---->
+	<string name="camera">"Máy ảnh"</string>
+	<!---->
+	<string name="album">"Thư viện"</string>
+	<!---->
+	<string name="record">"Ghi âm"</string>
+	<!---->
+	<string name="reminder">"Nhắc nhở"</string>
+	<!---->
+	<string name="attachments">"Tập tin đính kèm"</string>
+	<!---->
+	<string name="colours">"Màu sắc"</string>
+	<!---->
+	<string name="set_reminder">"Cài thời gian nhắc nhở."</string>
+	<!---->
+	<string name="delete_item">"Xóa nó?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Xem"</string>
+	<!---->
+	<string name="btn_cancel">"Hủy"</string>
+	<!---->
+	<string name="save_record">"Đã lưu bản ghi."</string>
+	<!---->
+	<string name="delete_menu_title">"Xóa"</string>
+	<!---->
+	<string name="delete_these_item_title">"Xóa các ghi chú này?"</string>
+	<!---->
+	<string name="delete_all">"Xóa tất cả ghi chú?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Bạn có chắc muốn xóa ghi chú này?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Xóa thư mục màu sắc này?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Xóa các thư mục màu sắc này?"</string>
+	<!---->
+	<string name="add_limit">"Đã đạt đến độ dài tối đa!"</string>
+	<!---->
+	<string name="search_hint">"Tìm kiếm ghi chú"</string>
+	<!---->
+	<string name="search_label">"Tìm kiếm"</string>
+	<!---->
+	<string name="sort">"Sắp xếp"</string>
+	<!---->
+	<string name="no_note_exist">"Không có ghi chú"</string>
+	<!---->
+	<string name="no_search_result">"Không có kết quả tìm kiếm"</string>
+	<!---->
+	<string name="reminder_error">"Giờ bạn cài sớm hơn giờ hiện tại."</string>
+	<!---->
+	<string name="note_reminder">"Nhắc nhở ghi chú"</string>
+	<!---->
+	<string name="save_empty">"Ghi chú đang trống. Hãy nhập vào nội dung."</string>
+	<!---->
+	<string name="stack">"Xếp chồng"</string>
+	<!---->
+	<string name="widget_note_empty">"Nhấp để bắt đầu sửa"</string>
+	<!---->
+	<string name="loading">"Đang tải\u2026"</string>
+	<!---->
+	<string name="insert_sd_card">"Hãy lắp thẻ nhớ"</string>
+	<!---->
+	<string name="selected">"%s đã chọn"</string>
+	<!---->
+	<string name="note_notify_text">"Chọn để hủy hoặc xác nhận lời nhắc nhở này."</string>
+	<!---->
+	<string name="guest_mode_creat">"Bạn không được phép tạo ghi chú ở chế độ Khách."</string>
+	<!---->
+	<string name="guest_mode_view">"Bạn không được phép xem ghi chú ở chế độ Khách."</string>
+	<!---->
+	<string name="guest_mode_search">"Bạn không được phép tìm kiếm ghi chú ở chế độ Khách."</string>
+	<!---->
+	<string name="homekey_save">"Đã lưu ghi chú!"</string>
+	<!---->
+	<string name="search_title">"Kết quả tìm kiếm"</string>
+	<!---->
+	<string name="edit_add">"Thêm ghi chú mới"</string>
+	<!---->
+	<string name="color_white">"Trắng"</string>
+	<!---->
+	<string name="color_blue">"Xanh dương"</string>
+	<!---->
+	<string name="color_green">"Xanh lục"</string>
+	<!---->
+	<string name="color_yellow">"Vàng"</string>
+	<!---->
+	<string name="color_red">"Đỏ"</string>
+	<!---->
+	<string name="color_purple">"Tím"</string>
+	<!---->
+	<string name="color_black">"Đen"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Không đủ bộ nhớ trên thiết bị, hãy xóa bớt bộ nhớ và thử lại."</string>
+	<!---->
+	<string name="record_error">"Vui lòng dừng Ghi âm và thử lại."</string>
+	<!---->
+	<string name="toast_loadPicture">"Lỗi tải ảnh."</string>
+	<!---->
+	<string name="record_max_time">"Đã đạt đến thời gian tối đa và bản ghi đã được lưu"</string>
+	<!---->
+	<string name="start_record">"Gõ để ghi"</string>
+	<!---->
+	<string name="speek_record">"Nói ngay bây giờ"</string>
+	<!---->
+	<string name="record_incall">"Đang thực hiện cuộc gọi, không thể ghi."</string>
+	<!---->
+	<string name="playrecord_incall">"Đang thực hiện cuộc gọi, không thể phát bản ghi."</string>
+	<!---->
+	<string name="recording">"Bản ghi âm"</string>
+	<!---->
+	<string name="pause_record">"Chạm để tạm dừng"</string>
+	<!---->
+	<string name="continue_record">"Chạm để tiếp tục lại"</string>
+	<!---->
+	<string name="save_diarecord">"Lưu"</string>
+	<!---->
+	<string name="discard_record">"Loại bỏ"</string>
+	<!---->
+	<string name="no_file">"Không có tập tin"</string>
+	<!---->
+	<string name="btn_dismiss">"Hủy bỏ"</string>
+	<!---->
+	<string name="remove_pic">"Xóa ảnh?"</string>
+	<!---->
+	<string name="btn_remove">"Xóa"</string>
+	<!---->
+	<string name="deleting">"Đang xóa..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Để ghi ghi chú thoại, cho phép quyền Ghi chú truy cập micro."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Để ghi ghi chú thoại, cho phép quyền Ghi chú truy cập bộ lưu trữ."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Để chụp ảnh, cho phép quyền Ghi chú truy cập bộ lưu trữ."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Để phát bản ghi, cho phép quyền cho phép Ghi chú truy cập bộ nhớ."</string>
+	<!---->
+	<string name="btn_permiss">"Cài đặt"</string>
+	<string name="main_push_about">"Giới thiệu"</string>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Các bản cập nhật mới</string>
+	<string name="personal_data">ID Thiết bị, Thông tin vị trí, Androidid, Appid, Dấu thời gian, v.v.</string>
+	<string name="update_now">Cập nhật ngay</string>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Các bản cập nhật mới</string>
+	<string name="personal_data">ID Thiết bị, Thông tin vị trí, Androidid, Appid, Dấu thời gian, v.v.</string>
+	<string name="update_now">Cập nhật ngay</string>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Các bản cập nhật mới</string>
+	<string name="personal_data">ID Thiết bị, Thông tin vị trí, Androidid, Appid, Dấu thời gian, v.v.</string>
+	<string name="update_now">Cập nhật ngay</string>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Các bản cập nhật mới</string>
+	<string name="personal_data">ID Thiết bị, Thông tin vị trí, Androidid, Appid, Dấu thời gian, v.v.</string>
+	<string name="update_now">Cập nhật ngay</string>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Các bản cập nhật mới</string>
+	<string name="personal_data">ID Thiết bị, Thông tin vị trí, Androidid, Appid, Dấu thời gian, v.v.</string>
+	<string name="update_now">Cập nhật ngay</string>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Các bản cập nhật mới</string>
+	<string name="personal_data">ID Thiết bị, Thông tin vị trí, Androidid, Appid, Dấu thời gian, v.v.</string>
+	<string name="update_now">Cập nhật ngay</string>
+	<string name="main_update_later">Uppdatera senare</string>
+	<string name="new_updates">Các bản cập nhật mới</string>
+	<string name="personal_data">ID Thiết bị, Thông tin vị trí, Androidid, Appid, Dấu thời gian, v.v.</string>
+	<string name="update_now">Cập nhật ngay</string>
+</resources>

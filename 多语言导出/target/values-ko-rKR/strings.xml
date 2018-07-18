@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"주의"</string>
+	<!---->
+	<string name="add_note">"메모 추가"</string>
+	<!---->
+	<string name="help_promt">"이 버튼을 터치하여 \n 첫 노트를 생성합니다."</string>
+	<!---->
+	<string name="sort_by_time">"시간별로 분류"</string>
+	<!---->
+	<string name="sort_by_color">"색상별로 분류"</string>
+	<!---->
+	<string name="camera">"카메라"</string>
+	<!---->
+	<string name="album">"갤러리"</string>
+	<!---->
+	<string name="record">"레코드"</string>
+	<!---->
+	<string name="reminder">"알림"</string>
+	<!---->
+	<string name="attachments">"첨부파일"</string>
+	<!---->
+	<string name="colours">"색상"</string>
+	<!---->
+	<string name="set_reminder">"알림 시간 설정"</string>
+	<!---->
+	<string name="delete_item">"사진을 삭제하시겠습니까?"</string>
+	<!---->
+	<string name="btn_ok">"확인"</string>
+	<!---->
+	<string name="btn_view">"보기"</string>
+	<!---->
+	<string name="btn_cancel">"취소"</string>
+	<!---->
+	<string name="save_record">"녹음이 저장되었습니다."</string>
+	<!---->
+	<string name="delete_menu_title">"삭제"</string>
+	<!---->
+	<string name="delete_these_item_title">"이 메모를 삭제하시겠습니까?"</string>
+	<!---->
+	<string name="delete_all">"모든메모 제거?"</string>
+	<!---->
+	<string name="delete_this_item_title">"이 메모를 삭제하시겠습니까?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"이 색상의 폴더를 삭제하시겠습니까?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"이 색상의 폴더들을 삭제하시겠습니까?"</string>
+	<!---->
+	<string name="add_limit">"최대 길이 초과!"</string>
+	<!---->
+	<string name="search_hint">"메모 검색"</string>
+	<!---->
+	<string name="search_label">"검색"</string>
+	<!---->
+	<string name="sort">"정렬"</string>
+	<!---->
+	<string name="no_note_exist">"메모 없음"</string>
+	<!---->
+	<string name="no_search_result">"메모를 찾을 수 없습니다."</string>
+	<!---->
+	<string name="reminder_error">"설정한 시간이 과거로 되어 있습니다."</string>
+	<!---->
+	<string name="note_reminder">"메모 알림"</string>
+	<!---->
+	<string name="save_empty">"메모가 비었습니다. 내용을 입력하십시오."</string>
+	<!---->
+	<string name="stack">"스택"</string>
+	<!---->
+	<string name="widget_note_empty">"클릭해서 편집 시작"</string>
+	<!---->
+	<string name="loading">"로드 중…"</string>
+	<!---->
+	<string name="insert_sd_card">"SD 카드를 삽입하세요."</string>
+	<!---->
+	<string name="selected">"%s개 선택됨"</string>
+	<!---->
+	<string name="note_notify_text">"선택해서 이 알림을 취소하거나 확인하십시오."</string>
+	<!---->
+	<string name="guest_mode_creat">"게스트 모드에서는 메모를 생성할 수 없습니다."</string>
+	<!---->
+	<string name="guest_mode_view">"게스트 모드에서는 메모를 볼 수 없습니다."</string>
+	<!---->
+	<string name="guest_mode_search">"게스트 모드에서는 메모를 검색할 수 없습니다."</string>
+	<!---->
+	<string name="homekey_save">"메모가 저장되었습니다!"</string>
+	<!---->
+	<string name="search_title">"검색 결과"</string>
+	<!---->
+	<string name="edit_add">"새 메모 추가"</string>
+	<!---->
+	<string name="color_white">"흰색"</string>
+	<!---->
+	<string name="color_blue">"파란색"</string>
+	<!---->
+	<string name="color_green">"녹색"</string>
+	<!---->
+	<string name="color_yellow">"노란색"</string>
+	<!---->
+	<string name="color_red">"빨간색"</string>
+	<!---->
+	<string name="color_purple">"보라색"</string>
+	<!---->
+	<string name="color_black">"검정"</string>
+	<!---->
+	<string name="msg_devices_no_space">"장치에 공간이 부족합니다. 일부 공간을 비우고 다시 시도하십시오."</string>
+	<!---->
+	<string name="record_error">"녹음기를 멈추고 다시 시도하십시오."</string>
+	<!---->
+	<string name="toast_loadPicture">"이미지 로드에 실패했습니다."</string>
+	<!---->
+	<string name="record_max_time">"최대 시간에 도달했습니다. 녹음이 저장되었습니다."</string>
+	<!---->
+	<string name="start_record">"터치하여 녹음"</string>
+	<!---->
+	<string name="speek_record">"지금 말하세요."</string>
+	<!---->
+	<string name="record_incall">"통화 중입니다. 녹음할 수 없습니다."</string>
+	<!---->
+	<string name="playrecord_incall">"통화 중입니다. 녹음을 재생할 수 없습니다."</string>
+	<!---->
+	<string name="recording">"녹음"</string>
+	<!---->
+	<string name="pause_record">"터치하여 멈춤"</string>
+	<!---->
+	<string name="continue_record">"터치하여 다시 시작"</string>
+	<!---->
+	<string name="save_diarecord">"저장"</string>
+	<!---->
+	<string name="discard_record">"버리기"</string>
+	<!---->
+	<string name="no_file">"파일 없음"</string>
+	<!---->
+	<string name="btn_dismiss">"잠금"</string>
+	<!---->
+	<string name="remove_pic">"사진을 삭제하시겠습니까?"</string>
+	<!---->
+	<string name="btn_remove">"삭제"</string>
+	<!---->
+	<string name="deleting">"삭제중"</string>
+	<!---->
+	<string name="audio_permiss_lable">"음성 메모를 기록하려면 메모 승인을 허용해 마이크에 액세스합니다."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"음성 메모를 기록하려면 메모 승인을 허용해 저장장치에 액세스합니다."</string>
+	<!---->
+	<string name="camera_permiss_lable">"사진을 찍으려면 메모 승인을 허용해 저장장치에 액세스합니다."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"녹음본을 재생하려면 메모 승인을 허용해 저장장치에 액세스합니다."</string>
+	<!---->
+	<string name="btn_permiss">"설정"</string>
+</resources>

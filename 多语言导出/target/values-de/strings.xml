@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Notizen"</string>
+	<!---->
+	<string name="add_note">"Notiz hinzufügen"</string>
+	<!---->
+	<string name="help_promt">"Berühren Sie zum Erstellen einer Notiz diese Schaltfläche."</string>
+	<!---->
+	<string name="sort_by_time">"Nach Uhrzeit sortieren"</string>
+	<!---->
+	<string name="sort_by_color">"Nach Farbe sortieren"</string>
+	<!---->
+	<string name="camera">"Kamera"</string>
+	<!---->
+	<string name="album">"Galerie"</string>
+	<!---->
+	<string name="record">"Aufzeichnen"</string>
+	<!---->
+	<string name="reminder">"Erinnerung"</string>
+	<!---->
+	<string name="attachments">"Anhänge"</string>
+	<!---->
+	<string name="colours">"Farben"</string>
+	<!---->
+	<string name="set_reminder">"Legen Sie die Erinnerungszeit fest."</string>
+	<!---->
+	<string name="delete_item">"Löschen?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Anzeigen"</string>
+	<!---->
+	<string name="btn_cancel">"Abbrechen"</string>
+	<!---->
+	<string name="save_record">"Der Eintrag wurde gespeichert."</string>
+	<!---->
+	<string name="delete_menu_title">"Löschen"</string>
+	<!---->
+	<string name="delete_these_item_title">"Diese Notizen löschen?"</string>
+	<!---->
+	<string name="delete_all">"Alle Hinweise löschen?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Möchten Sie diese Notiz wirklich löschen?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Den Ordner in dieser Farbe löschen?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Die Ordner in dieser Farbe löschen?"</string>
+	<!---->
+	<string name="add_limit">"Maximallänge erreicht!"</string>
+	<!---->
+	<string name="search_hint">"Notizen suchen"</string>
+	<!---->
+	<string name="search_label">"Suche"</string>
+	<!---->
+	<string name="sort">"Sortieren"</string>
+	<!---->
+	<string name="no_note_exist">"Keine Notizen"</string>
+	<!---->
+	<string name="no_search_result">"Keine Suchergebnisse"</string>
+	<!---->
+	<string name="reminder_error">"Die von Ihnen eingegebene Uhrzeit liegt vor der aktuellen Uhrzeit."</string>
+	<!---->
+	<string name="note_reminder">"Notizerinnerung"</string>
+	<!---->
+	<string name="save_empty">"Die Notiz ist leer. Geben Sie die Inhalte ein."</string>
+	<!---->
+	<string name="stack">"Stapeln"</string>
+	<!---->
+	<string name="widget_note_empty">"Berühren: Bearbeiten starten"</string>
+	<!---->
+	<string name="loading">"Ladevorgang läuft..."</string>
+	<!---->
+	<string name="insert_sd_card">"SD-Karte einlegen"</string>
+	<!---->
+	<string name="selected">"%s ausgewählt"</string>
+	<!---->
+	<string name="note_notify_text">"Schließen oder bestätigen Sie diese Erinnerung."</string>
+	<!---->
+	<string name="guest_mode_creat">"Im Gastmodus sind Sie nicht dazu berechtigt, eine Notiz zu erstellen."</string>
+	<!---->
+	<string name="guest_mode_view">"Im Gastmodus sind Sie nicht dazu berechtigt, die Notiz aufzurufen."</string>
+	<!---->
+	<string name="guest_mode_search">"Im Gastmodus sind Sie nicht dazu berechtigt, Notizen zu suchen."</string>
+	<!---->
+	<string name="homekey_save">"Notiz gespeichert"</string>
+	<!---->
+	<string name="search_title">"Suchergebnis"</string>
+	<!---->
+	<string name="edit_add">"Neue Notiz"</string>
+	<!---->
+	<string name="color_white">"Weiß"</string>
+	<!---->
+	<string name="color_blue">"Blau"</string>
+	<!---->
+	<string name="color_green">"Grün"</string>
+	<!---->
+	<string name="color_yellow">"Gelb"</string>
+	<!---->
+	<string name="color_red">"Rot"</string>
+	<!---->
+	<string name="color_purple">"Violett"</string>
+	<!---->
+	<string name="color_black">"Schwarz"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Nicht genügend Speicherplatz auf den Geräten. Geben Sie Speicherplatz frei und versuchen Sie es erneut."</string>
+	<!---->
+	<string name="record_error">"Halten Sie den Sprachrekorder an und versuchen Sie es erneut."</string>
+	<!---->
+	<string name="toast_loadPicture">"Laden des Bildes fehlgeschlagen"</string>
+	<!---->
+	<string name="record_max_time">"Die maximale Zeit wurde erreicht und die Aufzeichnung wurde gespeichert."</string>
+	<!---->
+	<string name="start_record">"Berühren: aufzeichnen"</string>
+	<!---->
+	<string name="speek_record">"Jetzt sprechen"</string>
+	<!---->
+	<string name="record_incall">"Anruf aktiv, Aufnahme nicht möglich."</string>
+	<!---->
+	<string name="playrecord_incall">"Anruf aktiv, Wiedergabe der Aufnahme nicht möglich."</string>
+	<!---->
+	<string name="recording">"Aufnahmen"</string>
+	<!---->
+	<string name="pause_record">"Berühren: pausieren"</string>
+	<!---->
+	<string name="continue_record">"Berühren: fortsetzen"</string>
+	<!---->
+	<string name="save_diarecord">"Speichern"</string>
+	<!---->
+	<string name="discard_record">"Verwerfen"</string>
+	<!---->
+	<string name="no_file">"Keine Datei"</string>
+	<!---->
+	<string name="btn_dismiss">"Ablehnen"</string>
+	<!---->
+	<string name="remove_pic">"Bild entfernen?"</string>
+	<!---->
+	<string name="btn_remove">"Entfernen"</string>
+	<!---->
+	<string name="deleting">"Wird gelöscht..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Gewähren Sie Notes Zugriff auf das Mikrofon, um Sprachnotizen aufzunehmen."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Gewähren Sie Notes Zugriff auf den Speicher, um Sprachnotizen aufzunehmen."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Gewähren Sie Notes Zugriff auf den Speicher, um Fotos aufzunehmen."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Gewähren Sie Notes Zugriff auf den Speicher, um Aufnahmen wiederzugeben."</string>
+	<!---->
+	<string name="btn_permiss">"Einstellungen"</string>
+	<!---->
+	<string name="main_push_about">Info</string>
+	<string name="main_update_later">Später aktualisieren</string>
+	<string name="new_updates">Neue Aktualisierungen</string>
+	<string name="personal_data">Geräte-ID, Standortinformationen, Android-ID, App-ID, Zeitstempel usw.</string>
+	<string name="update_now">Jetzt aktualisieren</string>
+	<string name="main_update_later">Später aktualisieren</string>
+	<string name="new_updates">Neue Aktualisierungen</string>
+	<string name="personal_data">Geräte-ID, Standortinformationen, Android-ID, App-ID, Zeitstempel usw.</string>
+	<string name="update_now">Jetzt aktualisieren</string>
+	<string name="main_update_later">Später aktualisieren</string>
+	<string name="new_updates">Neue Aktualisierungen</string>
+	<string name="personal_data">Geräte-ID, Standortinformationen, Android-ID, App-ID, Zeitstempel usw.</string>
+	<string name="update_now">Jetzt aktualisieren</string>
+	<string name="main_update_later">Später aktualisieren</string>
+	<string name="new_updates">Neue Aktualisierungen</string>
+	<string name="personal_data">Geräte-ID, Standortinformationen, Android-ID, App-ID, Zeitstempel usw.</string>
+	<string name="update_now">Jetzt aktualisieren</string>
+	<string name="main_update_later">Später aktualisieren</string>
+	<string name="new_updates">Neue Aktualisierungen</string>
+	<string name="personal_data">Geräte-ID, Standortinformationen, Android-ID, App-ID, Zeitstempel usw.</string>
+	<string name="update_now">Jetzt aktualisieren</string>
+	<string name="main_update_later">Später aktualisieren</string>
+	<string name="new_updates">Neue Aktualisierungen</string>
+	<string name="personal_data">Geräte-ID, Standortinformationen, Android-ID, App-ID, Zeitstempel usw.</string>
+	<string name="update_now">Jetzt aktualisieren</string>
+	<string name="main_update_later">Später aktualisieren</string>
+	<string name="new_updates">Neue Aktualisierungen</string>
+	<string name="personal_data">Geräte-ID, Standortinformationen, Android-ID, App-ID, Zeitstempel usw.</string>
+	<string name="update_now">Jetzt aktualisieren</string>
+</resources>

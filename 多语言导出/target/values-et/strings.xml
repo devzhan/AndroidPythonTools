@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Dec 05 13:55:06 CST 2014
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!--[BUGFIX]-Mod by TCTNB.bo.xu,11/13/2013,PR-550430,  [Notes]The app's name should be "Notes" according to App list-->
+	<string name="app_name">"Märkused"</string>
+	<!--[BUGFIX]-Mod by TCTNB.bo.xu,12/17/2013,PR-558777,  [Notes]In notes, some places do not match with ergo-->
+	<string name="add_note">"Lisa märge"</string>
+	<!--Type:string Purpose:mobile tips in Note
+when first open Note,the tips will show.
+help add Note ScreenPath:Launcher->Note-->
+	<string name="help_promt">"<i>Puudutage seda nuppu \n oma esimese märkme loomiseks.</i>"</string>
+	<!---->
+	<string name="sort_by_time">"Sordi kellaaja järgi"</string>
+	<!---->
+	<string name="sort_by_color">"Sordi värvi järgi"</string>
+	<!---->
+	<string name="camera">"Kaamera"</string>
+	<!-- no translation found for album -->
+	<skip />
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note->add reminder-->
+	<string name="record">"salvesta"</string>
+	<!-- no translation found for reminder -->
+	<skip />
+	<!--Type:string Purpose:the reminder in Note ,for set reminder time when we add a note with reminder item ScreenPath:Launcher->Note-->
+	<string name="set_reminder">"Määrake meeldetuletuse kellaaeg."</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note-->
+	<string name="delete_item">"Kas soovite selle kustutada?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_cancel">"Tühista"</string>
+	<!-- no translation found for save_record -->
+	<skip />
+	<!-- no translation found for delete_menu_title -->
+	<skip />
+	<!-- no translation found for delete_these_item_title -->
+	<skip />
+	<!--PR817453 display wrong.Modified by hz_nanbing.zou at 24/10/2014 begin-->
+	<string name="delete_this_item_title">"Kas olete kindel, et soovite selle märkme kustutada?"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:launch ->Note-->
+	<string name="add_limit">"Max pikkus!"</string>
+	<!--PR821313 edit too long will fore close.Add by hz_nanbing.zou at 28/10/2014 begin-->
+	<string name="search_hint">"Otsi märkmeid"</string>
+	<!---->
+	<string name="search_label">"Otsing"</string>
+	<!---->
+	<string name="no_note_exist">"Märkmeid ei ole"</string>
+	<!---->
+	<string name="no_search_result">"Otsingutulemusi ei ole"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="reminder_error">"Määratud kellaaeg on praegusest varasem."</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="note_reminder">"Märkmete meeldetuletus"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches
+ ScreenPath:Launcher->Note-->
+	<string name="save_empty">"märge on tühi, sisestage midagi."</string>
+	<!---->
+	<string name="stack">"Pinu"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="widget_note_empty">"Klõpsake redigeerimiseks"</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches ScreenPath:Launcher->Note-->
+	<string name="loading">"Laadimine ..."</string>
+	<!--Type:string Purpose:add translation for Note,these strings can reuse the translations form other branches
+ ScreenPath:Launcher->Note-->
+	<string name="insert_sd_card">"Sisestage SD-kaart"</string>
+	<!--[BUGFIX]-ADD-END by wenlu.wu,11/26/2013,PR-558068 [BUGFIX]-ADD-BEGIN by wenlu.wu,12/17/2013,PR-573171-->
+	<string name="selected">"%s on valitud"</string>
+	<!-- no translation found for note_notify_text -->
+	<skip />
+	<!-- no translation found for note_notify_text -->
+	<string name="main_push_about">Teave</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
+	<string name="main_update_later">Värskenda hiljem</string>
+	<string name="new_updates">Uued värskendused</string>
+	<string name="personal_data">Seadme ID, asukoha teave, Androidi ID, äpi ID, kuupäev jne</string>
+	<string name="update_now">Uuenda kohe</string>
+</resources>

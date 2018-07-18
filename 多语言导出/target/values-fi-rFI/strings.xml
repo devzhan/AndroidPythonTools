@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Muistiinpanot"</string>
+	<!---->
+	<string name="add_note">"Lisää muistiinpano"</string>
+	<!---->
+	<string name="help_promt">"Kosketa tätä painiketta \n luodaksesi ensimmäisen muistiinpanosi."</string>
+	<!---->
+	<string name="sort_by_time">"Lajittele ajan mukaan"</string>
+	<!---->
+	<string name="sort_by_color">"Lajittele värin mukaan"</string>
+	<!---->
+	<string name="camera">"Kamera"</string>
+	<!---->
+	<string name="album">"Kuvavalikoima"</string>
+	<!---->
+	<string name="record">"Tallenna"</string>
+	<!---->
+	<string name="reminder">"Muistutus"</string>
+	<!---->
+	<string name="attachments">"Liitteet"</string>
+	<!---->
+	<string name="colours">"Värit"</string>
+	<!---->
+	<string name="set_reminder">"Aseta muistutusaika."</string>
+	<!---->
+	<string name="delete_item">"Haluatko poistaa sen?"</string>
+	<!---->
+	<string name="btn_ok">"OK"</string>
+	<!---->
+	<string name="btn_view">"Näytä"</string>
+	<!---->
+	<string name="btn_cancel">"Peruuta"</string>
+	<!---->
+	<string name="save_record">"Tiedot on tallennettu."</string>
+	<!---->
+	<string name="delete_menu_title">"Poista"</string>
+	<!---->
+	<string name="delete_these_item_title">"Poistetaanko nämä muistiinpanot?"</string>
+	<!---->
+	<string name="delete_all">"Poistetaanko kaikki muistiinpanot?"</string>
+	<!---->
+	<string name="delete_this_item_title">"Haluatko varmasti poistaa tämän muistiinpanon?"</string>
+	<!---->
+	<string name="delete_this_color_item_title">"Poistetaanko tämä värikansio?"</string>
+	<!---->
+	<string name="delete_these_color_item_title">"Poistetaanko nämä värikansiot?"</string>
+	<!---->
+	<string name="add_limit">"Maksimipituus saavutettu!"</string>
+	<!---->
+	<string name="search_hint">"Etsi muistiinpanoja"</string>
+	<!---->
+	<string name="search_label">"Haku"</string>
+	<!---->
+	<string name="sort">"Lajittele"</string>
+	<!---->
+	<string name="no_note_exist">"Ei muistiinpanoja"</string>
+	<!---->
+	<string name="no_search_result">"Ei hakutuloksia"</string>
+	<!---->
+	<string name="reminder_error">"Määrittämäsi aika on aiempi kuin nykyinen aika."</string>
+	<!---->
+	<string name="note_reminder">"Muistiinpanon muistutus"</string>
+	<!---->
+	<string name="save_empty">"Muistiinpano on tyhjä. Kirjoita sisältö."</string>
+	<!---->
+	<string name="stack">"Pino"</string>
+	<!---->
+	<string name="widget_note_empty">"Aloita muokkaus napsauttamalla"</string>
+	<!---->
+	<string name="loading">"Ladataan…"</string>
+	<!---->
+	<string name="insert_sd_card">"Aseta SD-kortti"</string>
+	<!---->
+	<string name="selected">"%s valittu"</string>
+	<!---->
+	<string name="note_notify_text">"Peruuta tai vahvista tämä muistutus valitsemalla."</string>
+	<!---->
+	<string name="guest_mode_creat">"Sinulla ei ole oikeutta luoda muistiinpanoa vierastilassa."</string>
+	<!---->
+	<string name="guest_mode_view">"Sinulla ei ole oikeutta näyttää muistiinpanoa vierastilassa."</string>
+	<!---->
+	<string name="guest_mode_search">"Sinulla ei ole oikeutta etsiä muistiinpanoja vierastilassa."</string>
+	<!---->
+	<string name="homekey_save">"Muistiinpano tallennettu."</string>
+	<!---->
+	<string name="search_title">"Keresési eredmények"</string>
+	<!---->
+	<string name="edit_add">"Lisää uusi muist.p."</string>
+	<!---->
+	<string name="color_white">"Valkoinen"</string>
+	<!---->
+	<string name="color_blue">"Sininen"</string>
+	<!---->
+	<string name="color_green">"Vihreä"</string>
+	<!---->
+	<string name="color_yellow">"Keltainen"</string>
+	<!---->
+	<string name="color_red">"Punainen"</string>
+	<!---->
+	<string name="color_purple">"Violetti"</string>
+	<!---->
+	<string name="color_black">"Musta"</string>
+	<!---->
+	<string name="msg_devices_no_space">"Laitteiden tallennustila ei riitä. Vapauta tilaa ja yritä uudelleen."</string>
+	<!---->
+	<string name="record_error">"Pysäytä Ääninauhuri ja yritä uudelleen."</string>
+	<!---->
+	<string name="toast_loadPicture">"Kuvan lataus epäonnistui."</string>
+	<!---->
+	<string name="record_max_time">"Enimmäisaika savutettu ja tallenne tallennettu"</string>
+	<!---->
+	<string name="start_record">"Tallenna napauttamalla"</string>
+	<!---->
+	<string name="speek_record">"Puhu nyt"</string>
+	<!---->
+	<string name="record_incall">"Puhelu meneillään, tallennus ei mahdollista."</string>
+	<!---->
+	<string name="playrecord_incall">"Puhelu meneillään, tallennetta ei voi toistaa."</string>
+	<!---->
+	<string name="recording">"Tallenteet"</string>
+	<!---->
+	<string name="pause_record">"Keskeytä koskettamalla"</string>
+	<!---->
+	<string name="continue_record">"Jatka koskettamalla"</string>
+	<!---->
+	<string name="save_diarecord">"Tallenna"</string>
+	<!---->
+	<string name="discard_record">"Hylkää"</string>
+	<!---->
+	<string name="no_file">"Ei tiedostoa"</string>
+	<!---->
+	<string name="btn_dismiss">"Hylkää"</string>
+	<!---->
+	<string name="remove_pic">"Poistetaanko kuva?"</string>
+	<!---->
+	<string name="btn_remove">"Poista"</string>
+	<!---->
+	<string name="deleting">"Poistetaan..."</string>
+	<!---->
+	<string name="audio_permiss_lable">"Tallentaaksesi äänimuistioita, salli Notes-sovellukselle pääsyoikeus mikrofoniin."</string>
+	<!---->
+	<string name="audio_storage_permiss_lable">"Tallentaaksesi äänimuistioita, salli Notes-sovellukselle pääsyoikeus tallennustilaan."</string>
+	<!---->
+	<string name="camera_permiss_lable">"Ottaaksesi valokuvia, salli Notes-sovellukselle pääsyoikeus tallennustilaan."</string>
+	<!---->
+	<string name="playaudio_permiss_lable">"Toistaaksesi tallenteita, salli Notes-sovellukselle pääsyoikeus tallennustilaan."</string>
+	<!---->
+	<string name="btn_permiss">"Asetukset"</string>
+</resources>
