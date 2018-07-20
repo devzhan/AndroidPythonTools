@@ -5,7 +5,7 @@ import os
 import pandas as pd
 
 excel_file = 'translations.xlsx'
-project_name = "Note"
+project_name = "Calculator"
 
 lang_dicts = {'ALBANIAN': 'sq',
               'ARABIC': 'ar',
@@ -105,7 +105,6 @@ def parse_xml():
             tree = ET.parse(spath)
             string_dict = {}
             if tree is not None:
-                print("当前文件是===" + spath)
                 root = tree.getroot()
                 nodes = root.findall('string')
                 for node in nodes:
@@ -117,10 +116,12 @@ def parse_xml():
                     string_dict[key] = value
             file_dict[dir] = string_dict
     keys.sort(reverse=False)
-    for key_item in keys:
-        for itme, itme_value in file_dict.items():
-            if key_item not in itme_value:
-                itme_value[key_item] = ''
+    for key in keys:
+        for itme, item_value in file_dict.items():
+            # print(item_value)
+            if key not in item_value.keys():
+                item_value[key] = ''
+
     data = pd.DataFrame()
     refVals = []
     modOPVals = []
@@ -169,8 +170,8 @@ def parse_xml():
             if cl in file_dict.keys():
                 val = file_dict[cl]
                 item_values = []
-                for item_key, item_val in val.items():
-                    item_values.append(item_val)
+                for key in keys:
+                    item_values.append(val[key])
                 data[langtype] = item_values
                 cls.append(langtype)
     cls.sort(reverse=False)
