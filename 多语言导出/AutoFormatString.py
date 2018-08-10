@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 # coding=utf-8
 
+# 从origin 文件夹中把数据写入target 文件夹中
+
 import os
 
 
@@ -38,24 +40,32 @@ def get_name_path2(file_dir):
 
 def main():
     target_dirs = get_name_path('target')
-    for tar in target_dirs:
-        tarpath = os.path.join(os.getcwd(), 'target', tar)
-        filelist = os.listdir(tarpath)
-        for filename in filelist:
-            if filename.startswith('string') and filename !='strings.xml':
-                filepath = os.path.join(tarpath, filename,)
-                targetfile=os.path.join(tarpath,'strings.xml')
-                if os.path.exists(targetfile) and os.path.exists(filepath) :
-                    content =reads_string(filepath)
-                    print(content[3:])
-                    write_string(targetfile ,content[3:])
-                    os.remove(filepath)
+    origin_dirs = get_name_path('origin')
+    print(target_dirs)
+    print(origin_dirs)
+    for ori in origin_dirs:
+        oripath = os.path.join(os.getcwd(), 'origin', ori)
+        print(oripath)
 
+        for tar in target_dirs:
+            tarpath = os.path.join(os.getcwd(), 'target', tar)
+            if tar == ori:
+                orifiles = os.listdir(oripath)
+                # tarfiles = os.listdir(tarpath)
+                for orifile in orifiles:
+                    if orifile == 'strings.xml':
+                        sourcefile = os.path.join(tarpath, oripath, 'strings.xml')
+                        targetfile = os.path.join(tarpath, 'strings.xml')
+                        if os.path.exists(targetfile) and os.path.exists(targetfile):
+                            star = 0
+                            contents = reads_string(sourcefile)
+                            for pos in range(0, len(contents)):
+                                item = contents[pos]
+                                if '<string' in item:
+                                    star = pos
+                                    break
 
-
-
-
-
+                            write_string(targetfile, contents[star:])
 
 
 def reads_string(path):
