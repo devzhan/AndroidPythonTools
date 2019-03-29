@@ -42,7 +42,7 @@ def main():
     for ori in origin_dirs:
         for tar in target_dirs:
             if ori == tar:
-                oripath = os.path.join(os.getcwd(), 'origin', ori, 'update_strings.xml')
+                oripath = os.path.join(os.getcwd(), 'origin', ori, 'string.xml')
                 tarpath = os.path.join(os.getcwd(), 'target', tar, 'strings.xml')
                 if os.path.exists(tarpath):
                     if os.path.exists(oripath):
@@ -58,13 +58,13 @@ def reads_string(path):
 
 
 def write_string(path, lines):
-    lines.pop(0)
+    # lines.pop(0)
     file = open(path, 'r+', encoding='UTF-8')
     localLines = file.readlines(100000)
     localLines.pop(len(localLines) - 1)
     file.close()
     targetFile = open(path, 'w+', encoding='UTF-8')
-    targetFile.writelines(localLines + lines)
+    targetFile.writelines(localLines + lines[2:])
     targetFile.close()
 
 

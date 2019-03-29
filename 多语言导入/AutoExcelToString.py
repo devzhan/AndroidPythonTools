@@ -2,12 +2,16 @@
 # coding=utf-8
 
 import os
+import zipfile
+
 import pandas as pd
 
-excel_file = 'Translated_Calculator.xlsx'
+excel_file = 'translations.xlsx'
 firstline = ['<?xml version="1.0" encoding="utf-8" standalone="no"?>',
              '<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">']
 lastline = ['</resources>']
+parse_floder ='parse'
+unzip_floder ='unzip_floder'
 
 lang_tables = {
     'CHINE_NEW': 'zh-rCN',  # 简体中文
@@ -38,7 +42,7 @@ lang_tables = {
     'BRAZILIAN': 'pt-rBR',  # 巴西
     'JAPANESE': 'ja',  # 日语
     'LATINESP': 'es-rLA',  # 拉丁西班牙语
-    'FARSI': 'fa',  # 波斯
+    'FARSI': 'fa',  # 波斯Latvian
     'CROATIAN': 'hr',  # 克罗地亚
     'RUSSIAN': 'ru',  # 俄语
     # IDOL3 与 MIE 差异
@@ -79,23 +83,38 @@ def get_lang_type(lang):
         if d.lower() == lang.lower():
             return x
     return lang.lower()
-
+def has_add_dict():
+    item_keys =[]
+    for (d, x) in lang_tables.items():
+        if d.lower() not in item_keys:
+            item_keys.append(d.lower())
+    print("")
+    return item_keys
 
 # 解析excle文档
 def parse_excel():
-    datas = pd.read_excel(excel_file, sheet_name='Sheet1')
+    try:
+        datas = pd.read_excel(excel_file, sheet_name='Sheet1')
+    except Exception as e:
+        print("文件读写异常")
+        return
+        pass
+    if datas is None:
+        print("未读取任何对象")
+        return
     colums = datas.columns.tolist()
     values = []
-    values = values + colums[7:]
+    values = values + colums[8:]
     lines = []
     for value in values:
         lines.clear()
         items = datas.loc[:, ['RefName', value]]
-        items =items.dropna()#删除为nan的元素
+        # 删除为nan的元素
+        items =items.dropna()
         langType = get_lang_type(value)
         flodername = 'values-' + langType
-        create_folder(flodername)
-        filepath = os.path.join(os.getcwd(), flodername, 'string.xml');
+        pasrserFloder=create_folder(parse_floder,flodername)
+        filepath = os.path.join( pasrserFloder, 'strings.xml');
         file = open(filepath, 'w', encoding='UTF-8')
         lines.append(firstline[0])
         lines.append(firstline[1])
@@ -107,15 +126,12 @@ def parse_excel():
             else:
                 key = name[pos + 1:]
             key_value = items.loc[indexs].values[0:][1]
-            # print('key===' + str(key) + '===value===' + str(key_value))
-            # < stringname = "attachments" > "Anhänge" < / string >
+            print(type(key_value))
+            print('key===' + str(key) + '===value===' + str(key_value))
             keystr = str(key)
             valuestr = str(key_value)
-            # if valuestr != 'nan':
             content = '<string name="' + keystr + '">"' + valuestr + '" </string >'
             lines.append(content)
-
-
         lines.append(lastline[0])
         print('将文档的第' + value + '列写入到文件' + filepath)
         file.writelines([line + '\n' for line in lines])
@@ -123,26 +139,24 @@ def parse_excel():
     pass
 
 
-def create_folder(path):
+def create_folder(root,path):
     # 去除首位空格
     path = path.strip()
     # 去除尾部 \ 符号
     path = path.rstrip("\\")
     curretnpath = os.getcwd();
-    folderpath = os.path.join(curretnpath, path)
+    folderpath = os.path.join(curretnpath, root,path)
     isExists = os.path.exists(folderpath)
     # 判断结果
     if not isExists:
         # 如果不存在则创建目录
         # 创建目录操作函数
-        os.makedirs(path)
-        return True
+        os.makedirs(folderpath)
     else:
         # 如果目录存在则不创建，并提示目录已存在,删除已存在的目录以及下面的文件，并创建新的目录
         print(path + ' 目录已存在')
-        del_file(path)
-        return False
-    pass
+        del_file(folderpath)
+    return folderpath
 
 
 def del_file(path):
@@ -154,9 +168,101 @@ def del_file(path):
         else:
             os.remove(c_path)
 
+#src_dir：你要压缩的文件夹的路径
+#zip_name：压缩后zip文件的路径及名称
+def unzip_file(zip_src, dst_dir):
+    r = zipfile.is_zipfile(zip_src)
+    if r:
+        fz = zipfile.ZipFile(zip_src, 'r')
+        for file in fz.namelist():
+            fz.extract(file, dst_dir)
+    else:
+        print('This is not zip')
+
+def zip_file(dirpath,outFullName):
+    zip = zipfile.ZipFile(outFullName, "w", zipfile.ZIP_DEFLATED)
+    for path, dirnames, filenames in os.walk(dirpath):
+        # 去掉目标跟路径，只对目标文件夹下边的文件及文件夹进行压缩
+        fpath = path.replace(dirpath, '')
+
+        for filename in filenames:
+            zip.write(os.path.join(path, filename), os.path.join(fpath, filename))
+    print('==压缩成功==')
+
+
+def get_name_path(file_dir):
+    dirs = []
+    curPath = os.getcwd() + "\\" + file_dir
+    filelist = os.listdir(file_dir)
+    for f in filelist:
+        spath = os.path.join(curPath, f)
+        if not f.startswith("values"):
+            continue
+        else:
+            # spath = os.path.join(spath, "update_strings.xml")
+            dirs.append(f)
+
+    return dirs
+    pass
+
+
+def get_name_path2(file_dir):
+    dirs = []
+    curPath = os.getcwd() + "\\" + file_dir
+    filelist = os.listdir(file_dir)
+    for f in filelist:
+        spath = os.path.join(curPath, f)
+        if not f.startswith("values"):
+            continue
+        else:
+            # spath = os.path.join(spath, "strings.xml")
+            dirs.append(f)
+
+    return dirs
+    pass
+
+
+def append_string():
+    parse_dirs = get_name_path(parse_floder)
+    unzip_dirs = get_name_path2(unzip_floder)
+    for ori in unzip_dirs:
+        for tar in parse_dirs:
+            if ori == tar:
+                oripath = os.path.join(os.getcwd(), parse_floder, ori, 'strings.xml')
+                tarpath = os.path.join(os.getcwd(), unzip_floder, tar, 'strings.xml')
+                if os.path.exists(tarpath):
+                    if os.path.exists(oripath):
+                        print("从" + oripath + "导入文件到" + tarpath)
+                        contents = reads_string(oripath)
+                        write_string(tarpath, contents)
+
+
+def reads_string(path):
+    file = open(path, 'r', encoding='UTF-8')
+    lines = file.readlines()
+    return lines
+
+
+def write_string(path, lines):
+    # lines.pop(0)
+    file = open(path, 'r+', encoding='UTF-8')
+    localLines = file.readlines(100000)
+    localLines.pop(len(localLines) - 1)
+    file.close()
+    targetFile = open(path, 'w+', encoding='UTF-8')
+    targetFile.writelines(localLines + lines[2:])
+    targetFile.close()
 
 def main():
     parse_excel()
+    unzipPath = os.path.join(os.getcwd(), "res.zip")
+    unzip_file(unzipPath, unzip_floder)
+    append_string()
+    zipPath = os.path.join(os.getcwd(), unzip_floder)
+    print(zipPath)
+    zip_file(zipPath, "new_res.zip")
+
+
 
 
 if __name__ == '__main__':

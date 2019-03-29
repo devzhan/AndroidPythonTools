@@ -2,100 +2,616 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ff3031-ffb3-41c5-89b8-f288b3eaed7e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/多语言导出/AutoStringToExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/arrays.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/dimensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rCN/integers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/arrays.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/dimensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rHK/integers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/arrays.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/dimensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/integers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/arrays.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/dimensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/integers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多语言导出/target/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多语言导入/res.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/AndroidPythonTools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AndroidPythonTools.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/AutoExcelToString.py" beforeDir="false" afterPath="$PROJECT_DIR$/多语言导入/AutoExcelToString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/AutoImportString.py" beforeDir="false" afterPath="$PROJECT_DIR$/多语言导入/AutoImportString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ar/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-bg/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ca/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-cs/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-da/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-de/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-el/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-en/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-es-rLA/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-es/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-et/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-eu/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-fa/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-fi/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-fr-rCA/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-fr/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-gl/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-he/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-hr/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-hu/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-in/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-it/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ja/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ko/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-lt/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-lv/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-mk/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ms/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-nl/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-no/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-pl/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-pt-rBR/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-pt/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ro/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ru/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-sk/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-sl/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-sq/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-sr/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-sv/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-th/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-tr/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-uk/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-ur/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-vi/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-zh-rCN/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-zh-rHK/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/origin/values-zh-rTW/update_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rEG/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rEG/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rEG/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rEG/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rIL/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rIL/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rIL/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar-rIL/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ar/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg-rBG/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg-rBG/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg-rBG/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg-rBG/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bg/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn-rBD/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn-rBD/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn-rBD/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn-rBD/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-bn/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca-rES/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca-rES/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca-rES/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca-rES/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ca/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs-rCZ/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs-rCZ/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs-rCZ/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs-rCZ/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-cs/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da-rDK/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da-rDK/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da-rDK/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da-rDK/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-da/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de-rDE/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de-rDE/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de-rDE/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de-rDE/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de-rDE/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el-rGR/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el-rGR/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el-rGR/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el-rGR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-el/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rAU/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rAU/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rGB/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rGB/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rGB/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rGB/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rNZ/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rNZ/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rUS/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rUS/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rUS/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-en-rUS/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rCL/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rCL/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rCL/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rCL/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rES/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rES/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rES/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rES/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rMX/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rMX/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rMX/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rMX/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rUS/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rUS/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rUS/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es-rUS/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-es/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et-rEE/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et-rEE/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et-rEE/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et-rEE/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-et/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu-rES/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu-rES/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu-rES/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu-rES/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-eu/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa-rIR/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa-rIR/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa-rIR/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa-rIR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fa/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi-rFI/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi-rFI/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi-rFI/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi-rFI/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fi/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rCA/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rCA/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rCA/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rCA/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rFR/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rFR/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rFR/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr-rFR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-fr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl-rES/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl-rES/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl-rES/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl-rES/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-gl/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hi-rIN/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hi-rIN/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hi/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hi/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr-rHR/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr-rHR/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr-rHR/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr-rHR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu-rHU/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu-rHU/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu-rHU/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu-rHU/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-hu/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id-rID/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id-rID/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id-rID/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id-rID/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-id/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in-rID/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in-rID/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in-rID/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in-rID/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-in/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it-rIT/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it-rIT/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it-rIT/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it-rIT/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-it/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw-rIL/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw-rIL/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw-rIL/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw-rIL/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-iw/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja-rJP/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja-rJP/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja-rJP/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja-rJP/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ja/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-kl-rGL/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-kl-rGL/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-kl-rGL/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-kl-rGL/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km-rKH/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km-rKH/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km-rKH/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km-rKH/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-km/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko-rKR/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko-rKR/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko-rKR/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko-rKR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ko/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo-rLA/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo-rLA/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo-rLA/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo-rLA/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lo/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lt-rLT/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lt-rLT/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lt-rLT/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lt-rLT/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lv-rLV/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lv-rLV/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lv-rLV/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-lv-rLV/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk-rMK/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk-rMK/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk-rMK/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk-rMK/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-mk/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms-rMY/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms-rMY/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms-rMY/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms-rMY/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ms/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my-rMM/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my-rMM/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my-rMM/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my-rMM/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-my/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb-rNO/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb-rNO/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb-rNO/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb-rNO/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nb/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl-rNL/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl-rNL/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl-rNL/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl-rNL/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-nl/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl-rPL/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl-rPL/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl-rPL/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl-rPL/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pl/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rBR/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rBR/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rBR/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rBR/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rBR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rPT/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rPT/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rPT/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rPT/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt-rPT/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-pt/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro-rRO/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro-rRO/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro-rRO/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro-rRO/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ro/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru-rRU/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru-rRU/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru-rRU/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru-rRU/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ru/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk-rSK/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk-rSK/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk-rSK/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk-rSK/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sk/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl-rSI/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl-rSI/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl-rSI/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl-rSI/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sl/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq-rAL/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq-rAL/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq-rAL/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq-rAL/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sq/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr-rRS/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr-rRS/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr-rRS/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr-rRS/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv-rSE/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv-rSE/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv-rSE/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv-rSE/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-sv/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th-rTH/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th-rTH/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th-rTH/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th-rTH/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-th/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr-rTR/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr-rTR/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr-rTR/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr-rTR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-tr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk-rUA/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk-rUA/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk-rUA/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk-rUA/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-uk/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ur-rPK/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ur-rPK/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ur-rPK/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-ur-rPK/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi-rVN/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi-rVN/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi-rVN/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi-rVN/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-vi/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rHK/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rHK/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rHK/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rHK/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rHK/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/dimensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/target/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/translations.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/多语言导入/translations.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ar/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-bg/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ca/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-chine_hk/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-cs/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-da/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-de/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-el/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-en-rUS/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-en/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-english_us/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-es-rLA/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-es/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-et/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-eu/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-fa/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-fi/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-fr-rCA/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-fr/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-gl/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-he/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-hr/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-hu/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-id/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-it/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ja/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ko/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-lt/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-lv/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-mk/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ms/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-nb-rNo/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-nl/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-pl/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-pt-rBR/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-pt/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ro/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ru/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-sk/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-sl/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-sq/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-sr/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-sv/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-th/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-tr/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-uk/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-ur_PK/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-urdu/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-vi/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导入/values-zh-rTW/string.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多语言导出/translations.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/多语言导出/translations.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoStringToExcel.coverage" NAME="AutoStringToExcel Coverage Results" MODIFIED="1531918339090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导出" />
-    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoImportString.coverage" NAME="AutoImportString Coverage Results" MODIFIED="1531807029144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导入" />
-    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoExcelToString.coverage" NAME="AutoExcelToString Coverage Results" MODIFIED="1531882765510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导入" />
+    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoStringToExcel.coverage" NAME="AutoStringToExcel Coverage Results" MODIFIED="1544684492383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导出" />
+    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoImportString.coverage" NAME="AutoImportString Coverage Results" MODIFIED="1552560341365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导入" />
+    <SUITE FILE_PATH="coverage/AndroidPythonTools$AutoExcelToString.coverage" NAME="AutoExcelToString Coverage Results" MODIFIED="1553844175411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多语言导入" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-707736914">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="26" />
+          <entry key="xml" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="26" />
+          <entry key="XML" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="658" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="658" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AutoStringToExcel.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/多语言导出/AutoStringToExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="13" />
-              <folding>
-                <element signature="e#39#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutoExcelToString.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/多语言导入/AutoExcelToString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" selection-start-line="11" selection-end-line="68" selection-end-column="1" />
+            <state relative-caret-position="308">
+              <caret line="256" column="17" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
               <folding>
                 <element signature="e#40#49#0" expanded="true" />
+                <marker date="1553844109300" expanded="true" signature="7137:7138" ph="..." />
+                <marker date="1553844109300" expanded="true" signature="7149:7154" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/formats/style.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/多语言导入/unzip_floder/values-zh-rCN/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="excel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/excel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="892" column="8" selection-start-line="892" selection-start-column="8" selection-end-line="892" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rTW/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-765" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutoImportString.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="42" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="42" />
+            <state relative-caret-position="2124">
+              <caret line="855" lean-forward="true" selection-start-line="855" selection-end-line="855" />
             </state>
           </provider>
         </entry>
@@ -113,6 +629,11 @@
       <find>file_dict</find>
       <find>RPK</find>
       <find>gl</find>
+      <find>CHINE_HK</find>
+      <find>enable_boost_shorcut</find>
+      <find>Latvian</find>
+      <find>挪威</find>
+      <find>nb</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
@@ -127,12 +648,14 @@
       <list>
         <option value="$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml" />
         <option value="$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml" />
-        <option value="$PROJECT_DIR$/多语言导入/AutoImportString.py" />
-        <option value="$PROJECT_DIR$/多语言导入/AutoExcelToString.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/多语言导出/AutoExcelToString.py" />
         <option value="$PROJECT_DIR$/多语言导出/target/values-zh-rTW/update_strings.xml" />
         <option value="$PROJECT_DIR$/多语言导出/AutoStringToExcel.py" />
+        <option value="$PROJECT_DIR$/多语言导入/target/values-zh-rTW/strings.xml" />
+        <option value="$PROJECT_DIR$/多语言导入/target/values-zh-rCN/strings.xml" />
+        <option value="$PROJECT_DIR$/多语言导入/AutoImportString.py" />
+        <option value="$PROJECT_DIR$/多语言导入/AutoExcelToString.py" />
       </list>
     </option>
   </component>
@@ -141,9 +664,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -166,18 +686,12 @@
             <path>
               <item name="AndroidPythonTools" type="b2602c69:ProjectViewProjectNode" />
               <item name="AndroidPythonTools" type="462c0819:PsiDirectoryNode" />
+              <item name="Tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidPythonTools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidPythonTools" type="462c0819:PsiDirectoryNode" />
               <item name="多语言导入" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidPythonTools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidPythonTools" type="462c0819:PsiDirectoryNode" />
-              <item name="多语言导出" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidPythonTools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidPythonTools" type="462c0819:PsiDirectoryNode" />
-              <item name="多语言导出" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,13 +701,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyUtils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\AndroidPythonTools\多语言导入\target" />
+      <recent name="D:\Python\AndroidPythonTools\多语言导入\origin" />
+      <recent name="D:\Python\AndroidPythonTools\多语言导入" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\AndroidPythonTools\多语言导入" />
+      <recent name="D:\Python\AndroidPythonTools\多语言导入\target" />
       <recent name="D:\python\AndroidPythonTools\多语言导出\target" />
       <recent name="D:\python\AndroidPythonTools\多语言导出" />
       <recent name="D:\python\AndroidPythonTools\多语言导入" />
@@ -211,7 +732,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AutoStringToExcel">
+  <component name="RunManager" selected="Python.AutoExcelToString">
     <configuration name="AutoExcelToString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AndroidPythonTools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,6 +751,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="AutoImportString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AndroidPythonTools" />
@@ -249,6 +773,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="AutoStringToExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AndroidPythonTools" />
@@ -268,6 +795,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.AutoImportString" />
@@ -276,9 +806,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.AutoStringToExcel" />
         <item itemvalue="Python.AutoExcelToString" />
         <item itemvalue="Python.AutoImportString" />
+        <item itemvalue="Python.AutoStringToExcel" />
       </list>
     </recent_temporary>
   </component>
@@ -297,53 +827,55 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16932908" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29744136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32998884" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16773163" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29744136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32998884" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,269 +887,239 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/多语言导出/AutoStringToExcel.py</url>
           <line>168</line>
         </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/多语言导入/AutoExcelToString.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/多语言导入/AutoImportString.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/多语言导入/AutoImportString.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/多语言导入/AutoImportString.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/多语言导入/AutoExcelToString.py</url>
+          <line>260</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-chine_hk/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-da/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml">
+    <entry file="file://$PROJECT_DIR$/多语言导出/AutoStringToExcel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="1170">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rTW/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
+    <entry file="file://D:/Program Files/Python3.7/Lib/site-packages/pandas/io/excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
+        <state relative-caret-position="493">
+          <caret line="331" column="24" selection-start-line="331" selection-start-column="24" selection-end-line="331" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-vi/string.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-da/strings.xml">
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-zh-rCN/styles.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-zh-rTW/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-zh-rCN/string.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
+        <state relative-caret-position="60">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-zh-rHK/junk_tag_strings.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-bg/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-zh-rCN/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rTW/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-bg/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-ar/string.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/attrs.xml" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1184311076/_testbuffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导出/AutoFormatString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-bg/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-ro/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-fa/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-in/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-lv/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-en/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/colors.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-vi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-ar/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-ar/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-zh-rHK/string.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-ca/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-zh-rHK/string.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-ar/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-zh-rHK/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-zh-rTW/strings.xml" />
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-no/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-zh-rCN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python3.7/Lib/site-packages/pandas/util/_decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python3.7/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python3.7/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="225" selection-start-line="225" selection-end-line="225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python3.7/Lib/site-packages/pandas/core/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="904" selection-start-line="904" selection-end-line="904" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python3.7/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="674" selection-start-line="674" selection-end-line="674" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/parse/values-bg/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/parse/values-ca/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/parse/values-cs/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/parse/values-da/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/parse/values-ar/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多语言导入/unzip_floder/values-zh-rTW/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="394" column="40" selection-start-line="394" selection-start-column="33" selection-end-line="394" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="-1313">
+          <caret line="6" selection-start-line="6" selection-end-line="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
+    <entry file="file://$PROJECT_DIR$/多语言导入/parse/values-zh-rCN/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-da/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2445">
-          <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-da/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1389958170/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="211" column="4" selection-start-line="211" selection-start-column="4" selection-end-line="211" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/1/q" />
-    <entry file="file://$PROJECT_DIR$/多语言导入/1/1" />
-    <entry file="file://$PROJECT_DIR$/多语言导入/1/2" />
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values-de/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Lib/typing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="2318" column="8" selection-start-line="2318" selection-start-column="8" selection-end-line="2318" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-vi/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-ar/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-bg/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-chine_hk/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-da/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rCN/string.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rHK/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/values-zh-rTW/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-cs/update_strings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Lib/xml/dom/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/string.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Lib/xml/etree/ElementTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="552" column="23" selection-start-line="552" selection-start-column="23" selection-end-line="552" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/target/values/arrays.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/origin/values-ar/update_strings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/target/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="144" column="12" selection-start-line="144" selection-end-line="144" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rHK/update_strings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rTW/update_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-ca/string.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="66" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3692">
-          <caret line="3910" column="8" selection-start-line="3910" selection-start-column="8" selection-end-line="3910" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-ja/string.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rHK/string.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/formats/style.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="892" column="8" selection-start-line="892" selection-start-column="8" selection-end-line="892" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/target/values-zh-rTW/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导入/AutoImportString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="42" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="42" />
+        <state relative-caret-position="120">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多语言导入/AutoExcelToString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" selection-start-line="11" selection-end-line="68" selection-end-column="1" />
+        <state relative-caret-position="308">
+          <caret line="256" column="17" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
           <folding>
             <element signature="e#40#49#0" expanded="true" />
+            <marker date="1553844109300" expanded="true" signature="7137:7138" ph="..." />
+            <marker date="1553844109300" expanded="true" signature="7149:7154" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多语言导出/AutoStringToExcel.py">
+    <entry file="file://$PROJECT_DIR$/多语言导入/unzip_floder/values-zh-rCN/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="e#39#50#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2124">
+          <caret line="855" lean-forward="true" selection-start-line="855" selection-end-line="855" />
         </state>
       </provider>
     </entry>

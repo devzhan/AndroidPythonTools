@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><resources>
-	<string name="main_update_later">Actualitzar més tard</string>
-	<string name="new_updates">Actualitzacions noves</string>
-	<string name="personal_data">&quot;Identificador del dispositiu, informació d'ubicació, identificador d'Android, identificador de l'aplicació, marca horària, etc.&quot;</string>
-	<string name="update_now">Actualitzar ara</string>
-</resources>
